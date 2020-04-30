@@ -1,0 +1,1917 @@
+{
+    
+    "greenFoodInfo": [
+        {
+            "name": "青葱", 
+            "EnglishName": "green",
+            "foodStatus": "放心吃",
+            "foodKind": "蔬菜",
+            "img": "http://static.bietongfeng.com//fruit_2/4-14.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.30g"},
+                {"name": "嘌呤", "data": "30.60mg"},
+                {"name": "热量", "data": "30.00kcal"},
+                {"name": "碳水化合物", "data": "6.50g"},
+                {"name": "蛋白质", "data": "1.70g"},
+                {"name": "膳食纤维", "data": "30.60g"}
+            ],
+            "evaluate": "大葱膳食纤维含量丰富，能有效降低胆固醇，且热量较低，痛风患者可经常食用。",
+            "howEat": "葱四季都能食用，是烹饪时的主要调味品。葱叶的胡萝卜素、维生素C含量较高，最好不要丢掉。",
+            "EdibleTaboo": [
+                "老少咸宜，尤其适合脑力劳动者、胃寒及食欲不振者",
+                "葱性温，能发汗解表，体虚易汗或表虚多汗者忌食。葱不可过量食用，否则会引起视物不明、头昏脑涨。"
+            ]
+        },
+        {
+            "name": "植物油", 
+            "EnglishName": "vegetable_oil", 
+            "foodStatus": "放心吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit_2/4b8d2dc2e2864a39a15f788dafeac834.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.30g"},
+                {"name": "嘌呤", "data": "30.60mg"},
+                {"name": "热量", "data": "30.00kcal"},
+                {"name": "碳水化合物", "data": "6.50g"},
+                {"name": "蛋白质", "data": "1.70g"},
+                {"name": "膳食纤维", "data": "30.60g"}
+            ],
+            "evaluate": "植物油有很多种类，其嘌呤含量很少，富含不饱和脂肪酸，能调节免疫能力，益智健脑，还能软化血管、降低血脂和血压，防治痛风并发高血压、高脂血症、老年性肥胖。植物油还含有丰富的维坐素E，有利于保护细胞膜的完整，避免破损而释放出嘌呤。 ",
+            "howEat": "植物油可用于日常炒菜，油量要控制，不宜过多，有的植物油可直接凉拌，比如香油、橄榄油、茶油，有的植物油比较耐高温，可用于煎炸，比如花生油、玉米油、色拉油。炒制、煎炸时油温不要过高，不要等油冒烟时再投入菜，因为油烟含大量丙烯醛，而且热油还产生油脂的热聚合物、多环芳烃等多种毒物，若长期吸入或食用，会诱发多种疾病。另外，高温加热后的油要避免反复使用。",
+            "EdibleTaboo": [
+                "一般人 群均可食用。",
+                "植物油不可过量食用，其能产生很高的热量，会引起脂肪的堆积，从而导致肥胖。油脂有一定的保质期，放置时间太久的油不要食用。"
+            ]
+        },
+        {
+            "name": "百合", 
+            "EnglishName": "lily", 
+            "foodStatus": "放心吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit_2/a46a1fec42f848f8a0c392b721219d7e.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.10g"},
+                {"name": "嘌呤", "data": "25.00mg"},
+                {"name": "热量", "data": "162.00kcal"},
+                {"name": "碳水化合物", "data": "38.00g"},
+                {"name": "蛋白质", "data": "3.20g"},
+                {"name": "膳食纤维", "data": "25.00g"}
+            ],
+            "evaluate": "百合为低嘌呤食物，痛风病人可常吃。",
+            "howEat": "将干百合、薏米、梗米各60克洗净后放锅中煮粥，每日分中、晚两次服完，连服。症状改善后仍须坚持，每周至少1至又次，以防痛风复发。",
+            "EdibleTaboo": [
+                "百合薏米粥可以提供患者必须的热能需求，而且对痛风有直接治疗作用，并能改善其关节炎的症状，宜是痛风病人的理想主食。在临床治疗当中发现:在低嘌呤饮食的原则下，以百合薏米粥为主食对痛风患者十分有效。",
+                "--"
+            ]
+        },
+        {
+            "name": "油菜", 
+            "EnglishName": "rapeseed", 
+            "foodStatus": "放心吃",
+            "foodKind": "蔬菜",
+            "img": "http://static.bietongfeng.com//fruit_2/4-59.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.30g"},
+                {"name": "嘌呤", "data": "30.60mg"},
+                {"name": "热量", "data": "30.00kcal"},
+                {"name": "碳水化合物", "data": "6.50g"},
+                {"name": "蛋白质", "data": "1.70g"},
+                {"name": "膳食纤维", "data": "30.60g"}
+            ],
+            "evaluate": "维生素A和C都比较高的蔬菜，热量很低，钾含量和钙含量较高，痛风患者可放心食用。",
+            "howEat": "凉拌过夜后的熟油菜，会产生大量亚硝酸盐，易引发癌症，忌食。",
+            "EdibleTaboo": [
+                "老少皆宜，尤其适合产后淤血腹痛的女性，以及便秘人士。",
+                "油菜性凉，滑利通肠，有泻下作用，故肠虚腹泻者过多食用会加重病情。"
+            ]
+        },
+        {
+            "name": "茶", 
+            "EnglishName": "tea", 
+            "foodStatus": "放心吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit_2/ead8bb8838e64159942395617d690359.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.30g"},
+                {"name": "嘌呤", "data": "30.60mg"},
+                {"name": "热量", "data": "30.00kcal"},
+                {"name": "碳水化合物", "data": "6.50g"},
+                {"name": "蛋白质", "data": "1.70g"},
+                {"name": "膳食纤维", "data": "30.60g"}
+            ],
+            "evaluate": "茶水呈弱碱性，有利于尿酸盐的排泄。另外，茶叶中的抗氧化剂能抗细胞老化，减少游萬嘌呤含量，并防治痛风并发高血压。茶叶还含有加速脂肪分解成分，能减肥瘦身，并防治痛风并发高脂血症。但切记勿饮浓茶。",
+            "howEat": "痛风患者饮茶时应以量少清淡为主，大量饮用浓茶会摄人过多嘌呤，而且浓茶含有咖啡碱，会升高血压，对痛风患者不利。所以痛风患者不宜饮用浓茶。痛风急性发作期忌饮茶水。",
+            "EdibleTaboo": [
+                "一般人群均可饮用。",
+                "不宜空腹饮茶，不宜饮隔夜茶水，不宜饮茶过量，不宜煮茶叶，不宜发热时饮茶，也不宜用茶水送服药物。"
+            ]
+        },
+        {
+            "name": "藕粉", 
+            "EnglishName": "lotus_root_starch", 
+            "foodStatus": "放心吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit_2/fb185ea0f5284190b6470895126c79db.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.30g"},
+                {"name": "嘌呤", "data": "30.60mg"},
+                {"name": "热量", "data": "30.00kcal"},
+                {"name": "碳水化合物", "data": "6.50g"},
+                {"name": "蛋白质", "data": "1.70g"},
+                {"name": "膳食纤维", "data": "30.60g"}
+            ],
+            "evaluate": "藕粉铁含量很高，不错的补铁补血食物，但热量较高，不宜一次大量食用。藕粉嘌呤含量低，适合痛风患者食用。",
+            "howEat": "藕粉多直接用开水冲调，也可在汤或炒菜中作黏稠剂。",
+            "EdibleTaboo": [
+                "藕粉能够益气补血、清热去燥、养胃滋阴、健脾益(宜 气、养血止血。身材矮小、身体虚弱的儿童、孕妇及老人宜食藕粉，胃肠病患者也可多食。",
+                "藕粉含淀粉量高，肥胖者、并发糖尿病的痛风病人谨慎食用。"
+            ]
+        },
+        {
+            "name": "面包", 
+            "EnglishName": "bread", 
+            "foodStatus": "放心吃",
+            "foodKind": "主食类",
+            "img": "http://static.bietongfeng.com//fruit_2/e7a965ca57bf4bd4a26b489eff75d730.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "5.10g"},
+                {"name": "嘌呤", "data": "22.50mg"},
+                {"name": "热量", "data": "312.00kcal"},
+                {"name": "碳水化合物", "data": "58.60g"},
+                {"name": "蛋白质", "data": "8.30g"},
+                {"name": "膳食纤维", "data": "22.50g"}
+            ],
+            "evaluate": "传统面包的特点是高热量、高钠、富含饱和脂肪酸和反式脂肪酸，减肥时不宜食用。嘌呤含量低。",
+            "howEat": "痛风患者最好选择含糖、盐和油脂少的面包，也可以在家自己烘焙以控制辅料含量。",
+            "EdibleTaboo": [
+                "一般的面包都质地柔软，容易消化吸收，健脾和胃、去火益肾。",
+                "面包含糖高，切常添加奶油、芝士等饱和脂肪酸，不适宜减肥人士以及糖尿病、高血压患者。五谷面包会添加多种豆类，嘌呤含量高，痛风患者不宜食用。"
+            ]
+        },
+        {
+            "name": "木薯", 
+            "EnglishName": "cassava", 
+            "foodStatus": "放心吃",
+            "foodKind": "主食类",
+            "img": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3541298593,106604270&fm=26&gp=0.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.28g"},
+                {"name": "嘌呤", "data": "10.40mg"},
+                {"name": "热量", "data": "160.00kcal"},
+                {"name": "碳水化合物", "data": "38.06g"},
+                {"name": "蛋白质", "data": "1.36g"},
+                {"name": "膳食纤维", "data": "10.40g"}
+            ],
+            "evaluate": "木薯为世界三大薯类之一，可消肿解毒，具有亮发、健脑、明目、温肺、有益心血管、益肝、健脾和胃、润肠、养颜护肤、抑癌抗瘤、养阴补虚、抗衰抗辐射的功效，对高血压、高脂血症、甲状腺疾病、呼吸系统疾病等疾病有辅助治疗作用。痛风患者可以放心食用。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "--",
+                "薯忌与柿子同吃，同时食用可使肠胃出血或造成胃溃疡；食用木薯前去皮，用清水浸薯肉，并且食用时煮熟，防止木薯中毒。"
+            ]
+        },
+        {
+            "name": "白米", 
+            "EnglishName": "rice", 
+            "foodStatus": "放心吃",
+            "foodKind": "主食类",
+            "img": "http://static.bietongfeng.com//fruit_2/68b857410f89489dbf63995a5275d6e1.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.30g"},
+                {"name": "嘌呤", "data": "18.10mg"},
+                {"name": "热量", "data": "116.00kcal"},
+                {"name": "碳水化合物", "data": "25.90g"},
+                {"name": "蛋白质", "data": "2.60g"},
+                {"name": "膳食纤维", "data": "18.10g"}
+            ],
+            "evaluate": "米是五谷之首，米饭更是人们日常饮食中的主角之一；一味米饭，与五味调配，几乎可以供给全身所需营养。",
+            "howEat": "大米一般被做成米饭或米粥，可以和各种食材搭配，比如小米、香米、燕麦、各种豆类、多种蔬菜和水果，可依据胃口和体质灵活添加。痛风患者可放心食用。",
+            "EdibleTaboo": [
+                "一般人皆可食用。",
+                "淘洗大米时次数不用太多，否则会造成大米营养价值的流失。做米粥时不宜放碱，碱会破坏大米中的维生素B1。此外糖尿病患者不宜多食。"
+            ]
+        },
+        {
+            "name": "玉米", 
+            "EnglishName": "corn", 
+            "foodStatus": "放心吃",
+            "foodKind": "主食类",
+            "img": "http://static.bietongfeng.com//fruit/1-2.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "1.20g"},
+                {"name": "嘌呤", "data": "9.40mg"},
+                {"name": "热量", "data": "106.00kcal"},
+                {"name": "碳水化合物", "data": "22.80g"},
+                {"name": "蛋白质", "data": "4.00g"},
+                {"name": "膳食纤维", "data": "9.40g"}
+            ],
+            "evaluate": "一种热量较低纤维含量较高的粗粮，适量进食可缓解便秘，营养学会建议每天最好吃50g以上粗粮，痛风患者推荐食用。",
+            "howEat": "每天宜吃70克（玉米面≈70克）5勺（15毫升的大勺）。蒸煮玉米可最大限度地激发起抗氧化剂的活性，可有利于痛风患者吸收其营养。",
+            "EdibleTaboo": [
+                "煮玉米，可以往水里加一点小苏打。可以充分释放所含的烟酸，营养价值提高。",
+                "玉米发霉后可产生致癌物，发霉的玉米绝对不能食用。"
+            ]
+        },
+        {
+            "name": "小麦", 
+            "EnglishName": "wheat", 
+            "foodStatus": "放心吃",
+            "foodKind": "主食类",
+            "img": "http://static.bietongfeng.com//fruit/1-14.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "2.80g"},
+                {"name": "嘌呤", "data": "12.10mg"},
+                {"name": "热量", "data": "362.51kcal"},
+                {"name": "碳水化合物", "data": "75.20g"},
+                {"name": "蛋白质", "data": "11.90g"},
+                {"name": "膳食纤维", "data": "12.10g"}
+            ],
+            "evaluate": "小麦富含淀粉，蛋白质，脂肪，矿物质，钙，铁，硫胺素，核黄素，烟酸，维生素A及维生素C等，是主要的主食来源，嘌呤含量较低，可以放心食用。",
+            "howEat": "小麦可以直接做粥，也可磨成面粉。面粉加工精度越高，嘌呤含越低。",
+            "EdibleTaboo": [
+                "小麦尤其适宜心血不足导致的失眠多梦、心慌不安、悲观抑郁的人。常食小麦还能防治脚气病，预防食管癌。",
+                "糖尿病患者不宜多食，因小麦含糖量高，多食会导致血糖升高。"
+            ]
+        },
+        {
+            "name": "糙米", 
+            "EnglishName": "brown_rice", 
+            "foodStatus": "放心吃",
+            "foodKind": "主食类",
+            "img": "http://static.bietongfeng.com//fruit/1-3.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "2.80g"},
+                {"name": "嘌呤", "data": "22.40mg"},
+                {"name": "热量", "data": "355.57kcal"},
+                {"name": "碳水化合物", "data": "76.50g"},
+                {"name": "蛋白质", "data": "7.20g"},
+                {"name": "膳食纤维", "data": "22.40g"}
+            ],
+            "evaluate": "一种高碳水化合物的食品，嘌呤较低，可放心食用。",
+            "howEat": "糙米煮粥，用小火慢慢熬，熬至黏稠，表面会有一层厚厚的粥皮。粥皮滋阴补阳，使人气色好。发芽的糙米营养价值更高，更能保健康，预防疾病。",
+            "EdibleTaboo": [
+                "老少咸宜，尤其适合有过敏症的儿童、高血压者及肥胖者。",
+                "--"
+            ]
+        },
+        {
+            "name": "小米", 
+            "EnglishName": "millet", 
+            "foodStatus": "放心吃",
+            "foodKind": "主食类",
+            "img": "http://static.bietongfeng.com//fruit/1-5.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "3.10g"},
+                {"name": "嘌呤", "data": "10.00mg"},
+                {"name": "热量", "data": "339.55kcal"},
+                {"name": "碳水化合物", "data": "75.10g"},
+                {"name": "蛋白质", "data": "9.00g"},
+                {"name": "膳食纤维", "data": "10.00g"}
+            ],
+            "evaluate": "小米是一种常见谷物，常被用来熬粥，其钾，磷，镁含量较高，钠含量极低，且含有维生素A及胡萝卜素，推荐作为粗粮搭配细粮食用，可放心食用。",
+            "howEat": "小米可蒸饭、煮粥，也可磨成粉后制成饼、发糕等食品。小米的氨基酸组成不够理想，宜与大豆或肉类食物混合食用。",
+            "EdibleTaboo": [
+                "小米健脾和胃、补益虚损，富含铁和磷，补血健脑，故小米粥有“代参汤”之美称。小米也适宜高血压、皮肤病、炎症患者食用。",
+                "胃寒呕吐者应少食。"
+            ]
+        },
+        {
+            "name": "鸡蛋白", 
+            "EnglishName": "egg_white", 
+            "foodStatus": "放心吃",
+            "foodKind": "肉/蛋类",
+            "img": "http://static.bietongfeng.com//fruit_2/2-2.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.10g"},
+                {"name": "嘌呤", "data": "3.70mg"},
+                {"name": "热量", "data": "36.11kcal"},
+                {"name": "碳水化合物", "data": "1.00g"},
+                {"name": "蛋白质", "data": "9.80g"},
+                {"name": "膳食纤维", "data": "3.70g"}
+            ],
+            "evaluate": "鸡蛋白几乎不含脂肪，热量较低，是优质蛋白的绝佳来源，嘌呤含量较低，可放心食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "鸡蛋黄", 
+            "EnglishName": "egg_yolk", 
+            "foodStatus": "放心吃",
+            "foodKind": "肉/蛋类",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(3).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "29.70g"},
+                {"name": "嘌呤", "data": "2.60mg"},
+                {"name": "热量", "data": "336.44kcal"},
+                {"name": "碳水化合物", "data": "3.40g"},
+                {"name": "蛋白质", "data": "15.20g"},
+                {"name": "膳食纤维", "data": "2.60g"}
+            ],
+            "evaluate": "鸡蛋黄营养价值很高，富含各类矿物质及优质蛋白，但同时脂肪含量不低，且胆固醇含量较高。嘌呤含量较低，可放心食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "鸭蛋白", 
+            "EnglishName": "duck_egg_white", 
+            "foodStatus": "放心吃",
+            "foodKind": "肉/蛋类",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(4).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "--"},
+                {"name": "嘌呤", "data": "3.40mg"},
+                {"name": "热量", "data": "47.11kcal"},
+                {"name": "碳水化合物", "data": "1.80g"},
+                {"name": "蛋白质", "data": "9.90g"},
+                {"name": "膳食纤维", "data": "3.40g"}
+            ],
+            "evaluate": "鸭蛋白几乎不含脂肪，热量较低，是优质蛋白的绝佳来源，嘌呤较低，可放心食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "鸭蛋黄", 
+            "EnglishName": "duck_egg_yolk", 
+            "foodStatus": "放心吃",
+            "foodKind": "肉/蛋类",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(5).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "30.80g"},
+                {"name": "嘌呤", "data": "3.20mg"},
+                {"name": "热量", "data": "348.40kcal"},
+                {"name": "碳水化合物", "data": "4.00g"},
+                {"name": "蛋白质", "data": "14.50g"},
+                {"name": "膳食纤维", "data": "3.20g"}
+            ],
+            "evaluate": "鸭蛋黄营养价值很高，富含各类矿物质及优质蛋白，但同时脂肪含量不低，且胆固醇含量较高。嘌呤含量较低，可放心食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "猪血", 
+            "EnglishName": "pig_blood", 
+            "foodStatus": "放心吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(8).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.60g"},
+                {"name": "嘌呤", "data": "11.80mg"},
+                {"name": "热量", "data": "55.00kcal"},
+                {"name": "碳水化合物", "data": "0.90g"},
+                {"name": "蛋白质", "data": "12.20g"},
+                {"name": "膳食纤维", "data": "11.80g"}
+            ],
+            "evaluate": "猪血铁含量较高，并且为较好吸收利用的血红素铁，对于缓解女性由于节食造成的贫血有帮助，嘌呤含量较低，可放心食用。",
+            "howEat": "猪血可与葱、姜、青蒜炒食；也可与粉丝、黄瓜丝等凉拌吃；最常见的是与青菜等 相配做汤来喝。",
+            "EdibleTaboo": [
+                "猪血以排毒养血著称，它能清洁人体新陈代谢所产生的垃圾，患有缺铁性贫血的人 常吃猪血能预防血虚头晕、精神不济等症状，正在长身体的儿童也适宜食用。",
+                "猪血中含有较多的铁元素，吃得多的话会导致铁中毒，引起病症，一般建议一周食用不超两次。"
+            ]
+        },
+        {
+            "name": "桂鱼", 
+            "EnglishName": "mandarin_fish", 
+            "foodStatus": "放心吃",
+            "foodKind": "海产品",
+            "img": "http://static.bietongfeng.com//fruit_2/2-77.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "4.20g"},
+                {"name": "嘌呤", "data": "24.00mg"},
+                {"name": "热量", "data": "117.00kcal"},
+                {"name": "碳水化合物", "data": "0.00g"},
+                {"name": "蛋白质", "data": "19.90g"},
+                {"name": "膳食纤维", "data": "24.00g"}
+            ],
+            "evaluate": "桂鱼含有蛋白质、脂肪、少量维生素以及钙、钾、镁、硒等营养元素，营养比较丰富，嘌呤含量低，可放心食用。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "海蜇皮", 
+            "EnglishName": "jelly_fish", 
+            "foodStatus": "放心吃",
+            "foodKind": "海产品",
+            "img": "http://static.bietongfeng.com//fruit_2/2-102.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.30g"},
+                {"name": "嘌呤", "data": "9.30mg"},
+                {"name": "热量", "data": "33.00kcal"},
+                {"name": "碳水化合物", "data": "3.80g"},
+                {"name": "蛋白质", "data": "3.70g"},
+                {"name": "膳食纤维", "data": "9.30g"}
+            ],
+            "evaluate": "含水量很高，热量很低的一种水产品，钙含量很高，但同时钠含量也很高，嘌呤含量低，可放心食用。",
+            "howEat": "海蜇皮的烹调方法中以凉拌为主。新鲜海蜇不宜食用，其含有毒素，能引起细菌性食物中毒",
+            "EdibleTaboo": [
+                "从事纺织、粮食加工等与粉尘接触较多的工作人员应常吃海蜇皮，可以去积尘、洗肠胃。",
+                "海蜇皮性凉，脾胃虚寒者不宜食用。另外，海蜇皮富含碘，甲状腺功效亢进者食用，会加重病情。"
+            ]
+        },
+        {
+            "name": "海参", 
+            "EnglishName": "holothurian", 
+            "foodStatus": "放心吃",
+            "foodKind": "海产品",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(9).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.10g"},
+                {"name": "嘌呤", "data": "4.20mg"},
+                {"name": "热量", "data": "29.17kcal"},
+                {"name": "碳水化合物", "data": "2.50g"},
+                {"name": "蛋白质", "data": "16.50g"},
+                {"name": "膳食纤维", "data": "4.20g"}
+            ],
+            "evaluate": "海参含胆固醇低，脂肪含量相对少，是典型的高蛋白，低脂肪，低胆固醇食物，嘌呤含量较低，可放心食用。",
+            "howEat": "海参可凉拌、煮粥、炒食、红烧和煲汤。夏天进补的最好方法是凉拌。购买海参时要选择干燥的，以免变质。烹调海参时不宜加醋。",
+            "EdibleTaboo": [
+                "海参含有硫酸软骨素，能延缓肌肉衰老，适合老人进补。另外，海参低脂肪、低胆固醇，适合高血压、冠心病、肝炎患者。",
+                "海参性滑利，脾胃虚弱、经常腹泻者忌食。"
+            ]
+        },
+        {
+            "name": "牛奶", 
+            "EnglishName": "milk", 
+            "foodStatus": "放心吃",
+            "foodKind": "乳制品",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(98).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "3.20g"},
+                {"name": "嘌呤", "data": "1.40mg"},
+                {"name": "热量", "data": "54.00kcal"},
+                {"name": "碳水化合物", "data": "3.40g"},
+                {"name": "蛋白质", "data": "3.00g"},
+                {"name": "膳食纤维", "data": "1.40g"}
+            ],
+            "evaluate": "蛋白质和钙含量较丰富的一种饮品，减肥时可选择低脂或脱脂牛奶，嘌呤含量低，可放心食用。",
+            "howEat": "最好不要空腹喝牛奶，应先吃一些面包或馒头类的含碳水化合物的食物，有利于人体对蛋白质的吸收。袋装牛奶可加热饮用，但不要煮沸。",
+            "EdibleTaboo": [
+                "老少咸宜，尤其适合营养不良、失眠、工作压力大者。",
+                "不要饮用刚刚挤出的牛奶，其含有对人体有害的细菌。另外乳糖不耐受者肠道内缺乏乳糖酶，不能分解牛奶中的乳糖，饮用牛奶后会发生腹泻腹胀，可以改喝酸奶，但酸奶要少吃慎吃。"
+            ]
+        },
+        {
+            "name": "奶酪", 
+            "EnglishName": "cheese", 
+            "foodStatus": "放心吃",
+            "foodKind": "乳制品",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(99).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "23.50g"},
+                {"name": "嘌呤", "data": "7.00mg"},
+                {"name": "热量", "data": "328.00kcal"},
+                {"name": "碳水化合物", "data": "3.50g"},
+                {"name": "蛋白质", "data": "25.70g"},
+                {"name": "膳食纤维", "data": "7.00g"}
+            ],
+            "evaluate": "高脂肪，高钙，营养密度和能量密度都很高，其嘌呤含量较低，但高血脂、肥胖者应忌食。",
+            "howEat": "奶酪常作为西式菜肴的配菜，但也可以切成小块，配上红酒直接食用，也可夹在馒头、面包、饼干里。",
+            "EdibleTaboo": [
+                "奶酪适合体弱气虚人士，也适合儿童补钙。",
+                "奶酪脂肪含量高，高血脂、肥胖者应忌食。"
+            ]
+        },
+        {
+            "name": "酸奶", 
+            "EnglishName": "yogurt", 
+            "foodStatus": "放心吃",
+            "foodKind": "乳制品",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(141).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "2.70g"},
+                {"name": "嘌呤", "data": "7.00mg"},
+                {"name": "热量", "data": "72.00kcal"},
+                {"name": "碳水化合物", "data": "9.30g"},
+                {"name": "蛋白质", "data": "2.50g"},
+                {"name": "膳食纤维", "data": "7.00g"}
+            ],
+            "evaluate": "酸奶是乳酸菌发酵产品，而奶类食物代谢后呈碱性。大量流行病学研究发现看，低脂乳制品有利于预防痛风，酸奶对降尿酸也会有益的。 注：酸奶中含有一定量的乳酸，而乳酸与尿酸竞争排泄。部分患者过多食用酸奶，可能导致血尿酸升高，从而发作。",
+            "howEat": "痛风患者最好饮用低脂或脱脂酸奶，最好在饭后两小时饮用。而且酸奶只可冷藏不可加热，不然会破坏酸奶内的活菌。",
+            "EdibleTaboo": [
+                "酸奶适合对乳糖不耐受，又需补钙、补充营养的孩子，适合消化不良、肠胃内有毒素，以及想美容瘦身的爱美人士。",
+                "胃肠道手术后的病人应忌食酸奶。"
+            ]
+        },
+        {
+            "name": "四季豆（鲜）", 
+            "EnglishName": "green_beans(fresh)", 
+            "foodStatus": "放心吃",
+            "foodKind": "豆类",
+            "img": "http://static.bietongfeng.com//fruit/3-(12).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.40g"},
+                {"name": "嘌呤", "data": "23.20mg"},
+                {"name": "热量", "data": "28.00kcal"},
+                {"name": "碳水化合物", "data": "5.70g"},
+                {"name": "蛋白质", "data": "2.00g"},
+                {"name": "膳食纤维", "data": "23.20g"}
+            ],
+            "evaluate": "含有一定纤维的蔬菜，水分含量高，热量较低，在豆类中，属于嘌呤较低的一类，可以放心食用。",
+            "howEat": "四季豆可炖、可炒，也可以焯熟后凉拌，还可晒干制作干豆。四季豆一定要沸水焯透或热油炒熟，否则容易中毒腹泻。",
+            "EdibleTaboo": [
+                "老少皆宜，尤其适合减肥者、急性肠胃炎者、皮肤瘙痒者。",
+                "腹胀者不宜多食。"
+            ]
+        },
+        {
+            "name": "瓜子", 
+            "EnglishName": "melon_seeds", 
+            "foodStatus": "放心吃",
+            "foodKind": "干果",
+            "img": "http://static.bietongfeng.com//fruit/5-2.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "49.90g"},
+                {"name": "嘌呤", "data": "24.20mg"},
+                {"name": "热量", "data": "597.00kcal"},
+                {"name": "碳水化合物", "data": "19.10g"},
+                {"name": "蛋白质", "data": "23.90g"},
+                {"name": "膳食纤维", "data": "24.20g"}
+            ],
+            "evaluate": "瓜的种子，特指炒熟了的做食品的倭瓜子、西瓜子等。 又叫瓜子儿，俗名叫边果。它的种类较多，有葵花子、海瓜子、吊瓜子、西瓜子、南瓜子、黄瓜子、丝瓜子等。",
+            "howEat": "低嘌呤食物，痛风患者可放心食用。但所含热量很高，偏胖的痛风患者应尽量少吃。",
+            "EdibleTaboo": [
+                "适宜癌症患者食用；适宜高脂血症，动脉硬化和高血压之人食用；适宜神经衰弱的失眠者食用；适宜蛲虫病人食用。",
+                "炒后性温燥，多食易引起口干、口疮、牙痛等“上火”症状。"
+            ]
+        },
+        {
+            "name": "葡萄干", 
+            "EnglishName": "melon_seeds", 
+            "foodStatus": "放心吃",
+            "foodKind": "干果",
+            "img": "http://static.bietongfeng.com//fruit/5-3.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.90g"},
+                {"name": "嘌呤", "data": "5.40mg"},
+                {"name": "热量", "data": "341.00kcal"},
+                {"name": "碳水化合物", "data": "83.40g"},
+                {"name": "蛋白质", "data": "2.50g"},
+                {"name": "膳食纤维", "data": "5.40g"}
+            ],
+            "evaluate": "高碳水化合物，并且主要是葡萄糖，可快速被人体吸收利用，减肥时如遇到低血糖可以进食葡萄，热量较高，嘌呤含量低，可放心食用。 又叫瓜子儿，俗名叫边果。它的种类较多，有葵花子、海瓜子、吊瓜子、西瓜子、南瓜子、黄瓜子、丝瓜子等。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "桂圆干", 
+            "EnglishName": "dried_longan", 
+            "foodStatus": "放心吃",
+            "foodKind": "干果",
+            "img": "http://static.bietongfeng.com//fruit/5-4.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "1.30g"},
+                {"name": "嘌呤", "data": "8.6mg"},
+                {"name": "热量", "data": "173.00kcal"},
+                {"name": "碳水化合物", "data": "64.80g"},
+                {"name": "蛋白质", "data": "5.00g"},
+                {"name": "膳食纤维", "data": "8.60g"}
+            ],
+            "evaluate": "由桂圆失水制成，碳水化合物和钾含量极高，热量在蔬果类中相对较高，嘌呤含量低，可放心食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "芹菜", 
+            "EnglishName": "celery", 
+            "foodStatus": "放心吃",
+            "foodKind": "蔬菜",
+            "img": "http://static.bietongfeng.com//fruit/4-10.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.30g"},
+                {"name": "嘌呤", "data": "8.7mg"},
+                {"name": "热量", "data": "12.00kcal"},
+                {"name": "碳水化合物", "data": "4.80g"},
+                {"name": "蛋白质", "data": "0.60g"},
+                {"name": "膳食纤维", "data": "8.70g"}
+            ],
+            "evaluate": "芹菜是常用蔬菜之一，为伞形科植物旱芹的全草。既可热炒，又能凉拌，深受人们喜爱。嘌呤含量低，可放心食用。",
+            "howEat": "芹菜可凉拌、炒食，还可与其他蔬果一起榨汁。新鲜芹菜叶的维生素C含量更高，所以食用时最好不要扔掉叶子。",
+            "EdibleTaboo": [
+                "--",
+                "脾胃虚寒、肠滑不固、血压偏低者，不宜吃芹菜。备孕男性最好少吃芹菜，因其有杀精的可能。"
+            ]
+        },
+        {
+            "name": "生菜", 
+            "EnglishName": "lettuce", 
+            "foodStatus": "放心吃",
+            "foodKind": "蔬菜",
+            "img": "http://static.bietongfeng.com//fruit/4-10.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.50g"},
+                {"name": "嘌呤", "data": "15.20mg"},
+                {"name": "热量", "data": "15.00kcal"},
+                {"name": "碳水化合物", "data": "2.10g"},
+                {"name": "蛋白质", "data": "1.40g"},
+                {"name": "膳食纤维", "data": "15.20g"}
+            ],
+            "evaluate": "生菜热量较低，减肥期间适宜食用，且生菜非常适合生食，这样维生素基本没有流失，嘌呤含量低，可放心食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "大白菜", 
+            "EnglishName": "chinese_cabbage", 
+            "foodStatus": "放心吃",
+            "foodKind": "蔬菜",
+            "img": "http://static.bietongfeng.com//fruit/4-5.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.20g"},
+                {"name": "嘌呤", "data": "9.70mg"},
+                {"name": "热量", "data": "21.00kcal"},
+                {"name": "碳水化合物", "data": "3.70g"},
+                {"name": "蛋白质", "data": "1.70g"},
+                {"name": "膳食纤维", "data": "9.70g"}
+            ],
+            "evaluate": "冬季常见的低热量浅色蔬菜，营养含量一般，但热量很低，嘌呤含量低，可放心食用。",
+            "howEat": "大白菜与肉类同食，可减少肉中的亚硝酸盐物质，从而起到防癌的效果。",
+            "EdibleTaboo": [
+                "适合肺热咳嗽、便秘、肾病患者，女性多食可以预防乳腺癌。",
+                "大白菜性偏寒凉，胃寒腹痛、大便溏泻者不可多食。腐烂的大白菜不能吃。"
+            ]
+        },
+        {
+            "name": "柠檬", 
+            "EnglishName": "lemon", 
+            "foodStatus": "放心吃",
+            "foodKind": "水果",
+            "img": "http://static.bietongfeng.com//fruit/4-38.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "1.20g"},
+                {"name": "嘌呤", "data": "3.40mg"},
+                {"name": "热量", "data": "35.00kcal"},
+                {"name": "碳水化合物", "data": "6.20g"},
+                {"name": "蛋白质", "data": "1.10g"},
+                {"name": "膳食纤维", "data": "3.40g"}
+            ],
+            "evaluate": "水分含量很高、钾含量较高的水果，钙含量较高，但吸收率很有限，维生素C含量并不高，嘌呤含量低，可放心食用。",
+            "howEat": "适合配菜、榨汁，每次一两瓣。可与适量胖大海加水代茶饮。",
+            "EdibleTaboo": [
+                "柠檬富含维生素C，能化痰止咳，生津健胃。用于支气管炎，百日咳，食欲不振，维生素缺乏，中暑烦渴等症状，它是“坏血病”的克星。",
+                "吃柠檬过多伤筋损骨，不宜多食。有胃及十二指肠溃疡患者忌食柠檬。"
+            ]
+        },
+        {
+            "name": "桃子", 
+            "EnglishName": "peach", 
+            "foodStatus": "放心吃",
+            "foodKind": "水果",
+            "img": "http://static.bietongfeng.com//fruit/4-39.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.70g"},
+                {"name": "嘌呤", "data": "1.30mg"},
+                {"name": "热量", "data": "48.00kcal"},
+                {"name": "碳水化合物", "data": "12.20g"},
+                {"name": "蛋白质", "data": "0.90g"},
+                {"name": "膳食纤维", "data": "1.30g"}
+            ],
+            "evaluate": "热量较低的一种水果，其铁含量在水果中属于较高的，嘌呤含量低，可放心食用。",
+            "howEat": "可直接食用，也可以榨汁。由于桃不易保存，也可加工成罐头、桃干、桃脯、桃酱、果酒等。桃与其他时令水果做成的水果沙拉，是美容养颜、强生健体、提高免疫力的好选择。",
+            "EdibleTaboo": [
+                "一般人群均可食用，尤其适合老年体虚、肠燥便秘者、身体瘦弱、阳虚肾亏者食用。",
+                "内热偏盛、易生疮疖、糖尿病患者不宜多吃，婴儿、糖尿病患者忌食。"
+            ]
+        },
+        {
+            "name": "西瓜", 
+            "EnglishName": "watermelon", 
+            "foodStatus": "放心吃",
+            "foodKind": "水果",
+            "img": "http://static.bietongfeng.com//fruit/4-40.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.10g"},
+                {"name": "嘌呤", "data": "1.10mg"},
+                {"name": "热量", "data": "25.00kcal"},
+                {"name": "碳水化合物", "data": "5.80g"},
+                {"name": "蛋白质", "data": "0.60g"},
+                {"name": "膳食纤维", "data": "1.10g"}
+            ],
+            "evaluate": "含水量很高、热量很低的水果，同时含有一定量的钾，对消除水肿有一定作用，嘌呤含量低，可放心食用。",
+            "howEat": "可直接食用，也可榨汁。西瓜皮可以制作菜肴，也可以擦脸，美容养颜。",
+            "EdibleTaboo": [
+                "一般人群均可食用， 适宜高血压患者、急慢性肾炎患者、胆囊炎患者、高热不退者食用。",
+                "糖尿病患者少食，建议两餐中食用；脾胃虚寒，湿盛便溏者不宜食用。"
+            ]
+        },
+        {
+            "name": "橘子", 
+            "EnglishName": "orange", 
+            "foodStatus": "放心吃",
+            "foodKind": "水果",
+            "img": "http://static.bietongfeng.com//fruit/4-43.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.20g"},
+                {"name": "嘌呤", "data": "4.10mg"},
+                {"name": "热量", "data": "43.00kcal"},
+                {"name": "碳水化合物", "data": "10.20g"},
+                {"name": "蛋白质", "data": "0.80g"},
+                {"name": "膳食纤维", "data": "4.10g"}
+            ],
+            "evaluate": "橘子的含水量较高，热量在水果中属于中下水平，其维生素C含量并非很高，远低于猕猴桃、无花果等水果，嘌呤含量低，可以放心食用。",
+            "howEat": "可直接食用，也可榨成橘汁（可与山植搭配）。另外橘子内侧的薄皮（即橘络）中除含有维生素外，还有丰富的膳食纤维，可降低胆固醇。",
+            "EdibleTaboo": [
+                "橘子富含维生素C与柠檬酸，前者具有美容作用，后者则具有消除疲劳的作用。多数情况下，一般人群均可食用。",
+                "吃橘子过多可引起结石，因此一次不宜多食。咳嗽者不宜食用橘子。橘子与螃蟹不能同时食用，容易引起腹泻。"
+            ]
+        },
+        {
+            "name": "菠萝", 
+            "EnglishName": "pineapple", 
+            "foodStatus": "放心吃",
+            "foodKind": "水果",
+            "img": "http://static.bietongfeng.com//fruit/4-48.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.10g"},
+                {"name": "嘌呤", "data": "11.40mg"},
+                {"name": "热量", "data": "41.00kcal"},
+                {"name": "碳水化合物", "data": "10.80g"},
+                {"name": "蛋白质", "data": "0.50g"},
+                {"name": "膳食纤维", "data": "11.40g"}
+            ],
+            "evaluate": "含水量高、热量低的一种水果，含有一定钾，可帮助缓解钠摄入过多造成的水肿，嘌呤含量低，可放心食用。",
+            "howEat": "可直接去皮食用，也可榨成汁，加凉开水代茶饮。能溶解体内血凝块及纤维蛋白，对改善局部血液循环、消除炎症和水肿有一定的疗效。",
+            "EdibleTaboo": [
+                "一般人群均可食用。 1.特别适宜身热烦躁者、肾炎、高血压、支气管炎、消化不良者； 2.患有溃疡病、肾脏病、凝血功能障碍的人应禁食菠萝，发烧及患有湿疹疥疮的人也不宜多吃。",
+                "痛风患者食用每日不应超过100克。 患有溃疡病及凝血功能障碍者忌食菠萝。 菠萝不宜空腹食用。"
+            ]
+        },
+        {
+            "name": "芒果", 
+            "EnglishName": "Mango", 
+            "foodStatus": "放心吃",
+            "foodKind": "水果",
+            "img": "http://static.bietongfeng.com//fruit/4-50.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.30g"},
+                {"name": "嘌呤", "data": "2.00mg"},
+                {"name": "热量", "data": "32.00kcal"},
+                {"name": "碳水化合物", "data": "8.30g"},
+                {"name": "蛋白质", "data": "0.60g"},
+                {"name": "膳食纤维", "data": "2.00g"}
+            ],
+            "evaluate": "含水量很高、热量很低的一种水果，但芒果皮中的醛酸等物质可能引起过敏，最好皮去尽后再食用，嘌呤含量低，可放心食用。",
+            "howEat": "可直接食用，也可切块榨汁。",
+            "EdibleTaboo": [
+                "芒果为著名热带水果之一，芒果果实含有糖、蛋白质、粗纤维，芒果所含有的维生素A的前体胡萝卜素成分特别高，是所有水果中少见的。其次维生素C含量也不低。",
+                "过敏体质慎食。皮肤病、肿瘤、糖尿病患者不宜吃芒果。"
+            ]
+        }
+    ],
+    "yellowFoodInfo": [
+        {
+            "name": "糯米", 
+            "EnglishName": "glutinous_rice", 
+            "foodStatus": "少量吃",
+            "foodKind": "主食类",
+            "img": "http://static.bietongfeng.com//fruit/1-4.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "1.10g"},
+                {"name": "嘌呤", "data": "50.30mg"},
+                {"name": "热量", "data": "358.44kcal"},
+                {"name": "碳水化合物", "data": "78.30g"},
+                {"name": "蛋白质", "data": "7.30g"},
+                {"name": "膳食纤维", "data": "50.30g"}
+            ],
+            "evaluate": "碳水化合物含量较高的一种谷物，高热量，低嘌呤，煮熟后粘性较强，因其嘌呤稍高，痛风患者只宜少量食用。",
+            "howEat": "糯米可以用来煮粥，制作成粽子或年糕。糯米制品要加热后食用。",
+            "EdibleTaboo": [
+                "老少咸宜，尤其适合脾虚泄泻者及需益血安胎的产妇。",
+                "糯米不易消化，消化功能减退者应少食。糯米升糖指数高，痛风并发糖尿病的患者要慎食。"
+            ]
+        },
+        {
+            "name": "黑米", 
+            "EnglishName": "black_rice", 
+            "foodStatus": "少量吃",
+            "foodKind": "主食类",
+            "img": "http://static.bietongfeng.com//fruit/1-23.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "2.50g"},
+                {"name": "嘌呤", "data": "59.00mg"},
+                {"name": "热量", "data": "333.00kcal"},
+                {"name": "碳水化合物", "data": "72.20g"},
+                {"name": "蛋白质", "data": "9.40g"},
+                {"name": "膳食纤维", "data": "59.00g"}
+            ],
+            "evaluate": "脂肪含量最高的几种谷物之一，同时钾含量也较高，有利于消除水肿，纤维含量较高，粘性较强，但嘌呤含量高，建议少量食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "麦麸", 
+            "EnglishName": "wheat_bran", 
+            "foodStatus": "少量吃",
+            "foodKind": "主食类",
+            "img": "http://static.bietongfeng.com//fruit/1-26.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "4.00g"},
+                {"name": "嘌呤", "data": "50.00mg"},
+                {"name": "热量", "data": "220.00kcal"},
+                {"name": "碳水化合物", "data": "61.40g"},
+                {"name": "蛋白质", "data": "15.80g"},
+                {"name": "膳食纤维", "data": "50.00g"}
+            ],
+            "evaluate": "麸皮中含有非常丰富的膳食纤维以及维生素B族，同时是麦类中唯一含有维生素A及胡萝卜素的食物，对于预防便秘，提升代谢等方面都很有帮助，嘌呤含量较高，建议少量食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "莜麦", 
+            "EnglishName": "naked_oats", 
+            "foodStatus": "少量吃",
+            "foodKind": "主食类",
+            "img": "http://static.bietongfeng.com//fruit/1-27.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "6.70g"},
+                {"name": "嘌呤", "data": "25.00mg"},
+                {"name": "热量", "data": "332.00kcal"},
+                {"name": "碳水化合物", "data": "66.90g"},
+                {"name": "蛋白质", "data": "15.60g"},
+                {"name": "膳食纤维", "data": "25.00g"}
+            ],
+            "evaluate": "高纤维，高蛋白，高碳水化合物，嘌呤也较高，建议少量食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "鱼子酱", 
+            "EnglishName": "caviar", 
+            "foodStatus": "少量吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(87).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "7.10g"},
+                {"name": "嘌呤", "data": "144.00mg"},
+                {"name": "热量", "data": "201.00kcal"},
+                {"name": "碳水化合物", "data": "24.70g"},
+                {"name": "蛋白质", "data": "9.60g"},
+                {"name": "膳食纤维", "data": "144.00g"}
+            ],
+            "evaluate": "鱼子酱富含优质蛋白质、DHA和多种矿物质，营养非常丰富，但嘌呤含量较高，建议少量食用。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "鲶鱼", 
+            "EnglishName": "catfish", 
+            "foodStatus": "少量吃",
+            "foodKind": "海产品",
+            "img": "http://static.bietongfeng.com//fruit_2/b8a2b2ce3e33425983c1b739d9429af4.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "8.00g"},
+                {"name": "嘌呤", "data": "156.00mg"},
+                {"name": "热量", "data": "146.00kcal"},
+                {"name": "碳水化合物", "data": "2.00g"},
+                {"name": "蛋白质", "data": "15.00g"},
+                {"name": "膳食纤维", "data": "156.00g"}
+            ],
+            "evaluate": "鲶鱼为中嘌呤食物，痛风急性期应忌食。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "体虚虚损、营养不良、乳汁不足、小便不利、水气浮肿者宜食。",
+                "鲶鱼不宜与牛羊油、牛肝、鹿肉、野猪肉、野鸡、中药荆芥同食。"
+            ]
+        },
+        {
+            "name": "螃蟹", 
+            "EnglishName": "crab", 
+            "foodStatus": "少量吃",
+            "foodKind": "海产品",
+            "img": "http://static.bietongfeng.com//fruit_2/2-40.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "3.60g"},
+                {"name": "嘌呤", "data": "147.00mg"},
+                {"name": "热量", "data": "142.52kcal"},
+                {"name": "碳水化合物", "data": "2.30g"},
+                {"name": "蛋白质", "data": "17.50g"},
+                {"name": "膳食纤维", "data": "147.00g"}
+            ],
+            "evaluate": "蟹肉含有丰富的蛋百质及钙质等微量元素，而且热量很低，但嘌呤含量较高，建议少量食用。",
+            "howEat": "螃蟹味道鲜美，可用来蒸、煮、炸或制小吃馅。煮食螃蟹时，最好加入一些紫苏叶、鲜生姜，可减其寒性。不可食死蟹、生蟹、久存熟蟹。",
+            "EdibleTaboo": [
+                "100公克蟹肉内的维生素B/2就高于每人每日营养建议(宜摄取量，因此平常易感觉郁闷、倦总，或末梢神经会感觉麻木、疼痛的人，可以适量食用。",
+                "螃蟹性寒，脾胃虚寒、消化道炎症者忌食。体质过敏、心血管病患者忌食，易引起病发。"
+            ]
+        },
+        {
+            "name": "鸡腿肉", 
+            "EnglishName": "chicken_leg_meat", 
+            "foodStatus": "少量吃",
+            "foodKind": "肉/蛋类",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(11).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "13.00g"},
+                {"name": "嘌呤", "data": "140.30mg"},
+                {"name": "热量", "data": "143.71kcal"},
+                {"name": "碳水化合物", "data": "--"},
+                {"name": "蛋白质", "data": "16.00g"},
+                {"name": "膳食纤维", "data": "140.30g"}
+            ],
+            "evaluate": "鸡的脂肪多囤积在皮下，鸡腿带皮，所以脂肪含量不低，而且嘌呤含量较高，建议少量食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "猪肉", 
+            "EnglishName": "pork", 
+            "foodStatus": "少量吃",
+            "foodKind": "肉/蛋类",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(19).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "37.00g"},
+                {"name": "嘌呤", "data": "132.60mg"},
+                {"name": "热量", "data": "395.00kcal"},
+                {"name": "碳水化合物", "data": "2.40g"},
+                {"name": "蛋白质", "data": "13.20g"},
+                {"name": "膳食纤维", "data": "132.60g"}
+            ],
+            "evaluate": "肥瘦相间的猪肉，蛋白质含量及热量很高，嘌呤含量较高，建议少量食用。",
+            "howEat": "猪肉中的脂肪经长时间炖煮后会减少三到五成，胆固醇含量也会大大降低。痛风患者可选择猪瘦肉。",
+            "EdibleTaboo": [
+                "猪瘦肉适宜阴虚、头晕、贫血、大便干结，以及营养不良者食用。",
+                "猪肉脂肪含量高，高血压、高脂血症者及肥胖人士不宜多食。"
+            ]
+        },
+        {
+            "name": "羊肉", 
+            "EnglishName": "mutton", 
+            "foodStatus": "少量吃",
+            "foodKind": "肉/蛋类",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(27).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "13.00g"},
+                {"name": "嘌呤", "data": "109.10mg"},
+                {"name": "热量", "data": "198.95kcal"},
+                {"name": "碳水化合物", "data": "--"},
+                {"name": "蛋白质", "data": "19.00g"},
+                {"name": "膳食纤维", "data": "109.10g"}
+            ],
+            "evaluate": "羊肉与猪肉，牛肉同属常见红肉类，富含铁，铜等多种矿物质，比起牛肉脂肪含量略高。嘌呤含量较高，建议少量食用。",
+            "howEat": "羊肉可炖、炒，也可煲汤。羊肉嘌呤含量较高，痛风患者一次不宜多吃，而且不宜喝汤。",
+            "EdibleTaboo": [
+                "羊肉益气补虚、温中暖胃、温补肾阳，适合体虚、肾虚人士。",
+                "羊肉属大热之品，热天或发热病人要慎食。羊肉是发物，皮肤病患者要忌食。"
+            ]
+        },
+        {
+            "name": "牛肉", 
+            "EnglishName": "beef", 
+            "foodStatus": "少量吃",
+            "foodKind": "肉/蛋类",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(29).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "4.20g"},
+                {"name": "嘌呤", "data": "83.70mg"},
+                {"name": "热量", "data": "251.08kcal"},
+                {"name": "碳水化合物", "data": "2.00g"},
+                {"name": "蛋白质", "data": "19.90g"},
+                {"name": "膳食纤维", "data": "83.70g"}
+            ],
+            "evaluate": "牛肉是三大畜肉中脂肪含量最低的，其特点是蛋白质和钾含量较高，热量在肉类中属于较低的，但嘌呤含量较高，建议少量食用。",
+            "howEat": "牛肉可清炖、炒食，也可煲汤。其嘌呤含量较高，痛风患者一次不宜多吃，不宜喝汤。",
+            "EdibleTaboo": [
+                "牛肉适合身体虚弱、营养不良者养身，适合贫血、血虚者补气补血。",
+                "牛肉为发物，皮肤病患者应忌食。肝病、肾病患者要慎食。"
+            ]
+        },
+        {
+            "name": "鲫鱼", 
+            "EnglishName": "crucian", 
+            "foodStatus": "少量吃",
+            "foodKind": "海产品",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(34).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "3.20g"},
+                {"name": "嘌呤", "data": "137.00mg"},
+                {"name": "热量", "data": "108.00kcal"},
+                {"name": "碳水化合物", "data": "3.80g"},
+                {"name": "蛋白质", "data": "17.10g"},
+                {"name": "膳食纤维", "data": "137.00g"}
+            ],
+            "evaluate": "高蛋白，低脂肪的鱼类，热量在肉类中属于偏低的，钾，磷含量较高，嘌呤含量较高，建议少量食用。",
+            "howEat": "鲫鱼可做粥，做汤，还可以做小吃。鲫鱼嘌呤含量稍高，痛风患者应少食，且不宜喝汤。",
+            "EdibleTaboo": [
+                "鲫鱼尤其适合慢性肾炎水肿、肝硬化腹水、营养不良性浮肿者食用。",
+                "鲫鱼鱼子中胆固醇含量较高，高脂血症、高血压患者不宜食用。"
+            ]
+        },
+        {
+            "name": "炼乳", 
+            "EnglishName": "condensed_milk", 
+            "foodStatus": "少量吃",
+            "foodKind": "乳制品",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(175).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "8.70g"},
+                {"name": "嘌呤", "data": "25.00mg"},
+                {"name": "热量", "data": "332.00kcal"},
+                {"name": "碳水化合物", "data": "55.40g"},
+                {"name": "蛋白质", "data": "8.00g"},
+                {"name": "膳食纤维", "data": "25.00g"}
+            ],
+            "evaluate": "甜炼乳是牛奶经脱水等工艺制成，在加工过程中添加了蔗糖，因此热量和糖分较高，痛风患者应少量食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "红豆", 
+            "EnglishName": "red_bean", 
+            "foodStatus": "少量吃",
+            "foodKind": "豆类",
+            "img": "http://static.bietongfeng.com//fruit/3-(3).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.60g"},
+                {"name": "嘌呤", "data": "53.20mg"},
+                {"name": "热量", "data": "309.00kcal"},
+                {"name": "碳水化合物", "data": "63.40g"},
+                {"name": "蛋白质", "data": "20.20g"},
+                {"name": "膳食纤维", "data": "53.20g"}
+            ],
+            "evaluate": "高蛋白、高纤维、高碳水化合物、高热量、低脂肪的一种杂豆，嘌呤含量较高，建议少量食用。",
+            "howEat": "红豆可煲汤、煮粥，炖菜，或做成豆沙馅食用。其与大米、燕麦片煮粥，有祛脂降压、健脾和胃的功效。",
+            "EdibleTaboo": [
+                "红豆具有消肿止泻、健脾胃、清热消渴、降压、补血的功效。",
+                "水肿、肾炎患者适宜食用。"
+            ]
+        },
+        {
+            "name": "黑豆", 
+            "EnglishName": "black_bean", 
+            "foodStatus": "少量吃",
+            "foodKind": "豆类",
+            "img": "http://static.bietongfeng.com//fruit/3-(3).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "15.90g"},
+                {"name": "嘌呤", "data": "137.40mg"},
+                {"name": "热量", "data": "372.55kcal"},
+                {"name": "碳水化合物", "data": "22.60g"},
+                {"name": "蛋白质", "data": "36.00g"},
+                {"name": "膳食纤维", "data": "137.40g"}
+            ],
+            "evaluate": "高蛋白、高纤维、高碳水化合物、高脂肪、高热量的一种豆类，嘌呤含量较高，建议少量食用。",
+            "howEat": "黑豆可榨成豆浆服用，或与其他谷类食品一起食用，其营养价值更容易被吸收。具有补脾养胃、养血安神之功效，对脾虚乏力、形体消瘦有辅助治疗作用。",
+            "EdibleTaboo": [
+                "黑豆补虚，适宜体虚肾虚、腰膝酸软者食用。",
+                "黑豆不宜消化，消化不良者需慎食；黑豆嘌呤含量高，痛风患者要少食。"
+            ]
+        },
+        {
+            "name": "花生（鲜）", 
+            "EnglishName": "peanut (fresh)", 
+            "foodStatus": "少量吃",
+            "foodKind": "豆类",
+            "img": "http://static.bietongfeng.com//fruit/3-(7).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "44.30g"},
+                {"name": "嘌呤", "data": "85.40mg"},
+                {"name": "热量", "data": "298.00kcal"},
+                {"name": "碳水化合物", "data": "21.70g"},
+                {"name": "蛋白质", "data": "24.80g"},
+                {"name": "膳食纤维", "data": "85.40g"}
+            ],
+            "evaluate": "鲜花生的纤维含量很高，有一定缓解便秘作用，但同时因其脂肪和热量都较高，且嘌呤含量较高，建议少量食用。",
+            "howEat": "花生以炖食最佳，要连同红衣一起食用。将花生与芝麻、大米熬粥食用，适用于血虚头晕、贫血、头发早白、血虚便结者。花生嘌呤含量高，痛风患者应少食。",
+            "EdibleTaboo": [
+                "花生是滋养补益之佳品，适合儿童、青少年及老人。高血压、高脂血症、冠心病、动脉硬化患者可适当食用。",
+                "花生含油脂多，消化时需要多耗胆汁，故胆病患者不宜食用；花生能增进血凝，促进血栓形成，故患血黏度高或有血栓的人不宜食用；体寒湿滞及肠滑便泄者不宜服食。"
+            ]
+        },
+        {
+            "name": "蜂蜜", 
+            "EnglishName": "honey", 
+            "foodStatus": "少量吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit/5-1.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "1.90g"},
+                {"name": "嘌呤", "data": "1.20mg"},
+                {"name": "热量", "data": "371.00kcal"},
+                {"name": "碳水化合物", "data": "75.60g"},
+                {"name": "蛋白质", "data": "0.40g"},
+                {"name": "膳食纤维", "data": "1.20g"}
+            ],
+            "evaluate": "虽然蜂蜜嘌呤含量低，但却是高糖高热量食品。蜂蜜中的固体物质中 90% 以上都是糖，而果糖更是占到了 50% 以上。大量的果糖进入人体后，可以促进内源性尿酸的生成，使血尿酸水平升高，肾结石、痛风的危险性也显著增高。",
+            "howEat": "蜂蜜可直接食用，也可用作滋补品，还可作为蜜饯加工的材料。蜂蜜和萝卜、柠檬、柚子、芹菜等多种蔬果共食，能防治不同的病症。蜂蜜要用温水冲饮。",
+            "EdibleTaboo": [
+                "适宜老人、小孩、便秘患者、高血压患者、支气管哮喘患者食用。",
+                "对于痛风患者，蜂蜜这种高糖高热量食品一定要限制，如果在痛风发作期，就更要忌口。"
+            ]
+        },
+        {
+            "name": "酱油", 
+            "EnglishName": "soy_sauce", 
+            "foodStatus": "少量吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit/5-8.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.10g"},
+                {"name": "嘌呤", "data": "25.00mg"},
+                {"name": "热量", "data": "63.00kcal"},
+                {"name": "碳水化合物", "data": "10.10g"},
+                {"name": "蛋白质", "data": "5.60g"},
+                {"name": "膳食纤维", "data": "25.00g"}
+            ],
+            "evaluate": "钠含量极高的一种调料，除能调节菜肴颜色外，对菜的咸淡程度也有很大影响，嘌呤含量较高，请适量食用。",
+            "howEat": "一般来说酱油中的氨基酸含量越高，酱油的等级就越高，味道也更加鲜美。炒菜、炖汤时都可以加适量酱油。",
+            "EdibleTaboo": [
+                "一般人群均可食用。",
+                "酱油味道咸，含钠高，糖尿病、高血压患者应控制酱油的摄入。酱油中含有谷氨酸等增鲜味成分，调入酱油后就应当少放或不放味精，而且炒菜时要将酱油后放、少放。"
+            ]
+        },
+        {
+            "name": "腰果", 
+            "EnglishName": "soy_sauce", 
+            "foodStatus": "少量吃",
+            "foodKind": "干果",
+            "img": "http://static.bietongfeng.com//fruit/5-9.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "36.70g"},
+                {"name": "嘌呤", "data": "71.30mg"},
+                {"name": "热量", "data": "552.00kcal"},
+                {"name": "碳水化合物", "data": "41.60g"},
+                {"name": "蛋白质", "data": "17.30g"},
+                {"name": "膳食纤维", "data": "71.30g"}
+            ],
+            "evaluate": "高热量、高碳水化合物、高脂肪的坚果，多用作菜式，嘌呤含量较高，建议少量食用。",
+            "howEat": "腰果仁可直接食用，也可炸食或制作点心。其与西芹搭配凉拌食用，具有很高的营养价值。腰果嘌呤含量高，脂肪含量高，痛风患者应控制食用量。",
+            "EdibleTaboo": [
+                "一般人群均可食用。",
+                "腰果过敏人群不宜食用。另外，腰果富含油脂，故肠炎、腹泻患者不宜食用。"
+            ]
+        },
+        {
+            "name": "栗子", 
+            "EnglishName": "chestnuts", 
+            "foodStatus": "少量吃",
+            "foodKind": "干果",
+            "img": "http://static.bietongfeng.com//fruit/5-10.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.60g"},
+                {"name": "嘌呤", "data": "34.60mg"},
+                {"name": "热量", "data": "185.00kcal"},
+                {"name": "碳水化合物", "data": "42.20g"},
+                {"name": "蛋白质", "data": "4.20g"},
+                {"name": "膳食纤维", "data": "34.60g"}
+            ],
+            "evaluate": "碳水化合物含量极丰富，还含有丰富的不饱和脂肪酸、多种维生素和矿物质能量较高，嘌呤含量较高，建议少量食用。",
+            "howEat": "栗子与大米一起煮粥，可增强脾胃功能。栗子嘌呤含量稍高，痛风患者要少食。多食栗子也不利于痛风人士减肥瘦身。",
+            "EdibleTaboo": [
+                "适宜老人肾虚者食用，对中老年人腰酸腰痛，腿脚无力，小便频多者尤宜；适宜老年气管炎咳喘，内寒泄泻者食用。",
+                "栗子不宜生食，且一次不宜食用过多，不然会导致胃部不适。脾胃虚弱、消化不良 者要少食。栗子含糖丰富，糖尿病患者不宜食用，以免影响血糖的稳定。"
+            ]
+        },
+        {
+            "name": "莲子", 
+            "EnglishName": "lotus_seed", 
+            "foodStatus": "少量吃",
+            "foodKind": "干果",
+            "img": "http://static.bietongfeng.com//fruit/5-11.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "2.00g"},
+                {"name": "嘌呤", "data": "40.90mg"},
+                {"name": "热量", "data": "344.00kcal"},
+                {"name": "碳水化合物", "data": "67.20g"},
+                {"name": "蛋白质", "data": "17.20g"},
+                {"name": "膳食纤维", "data": "40.90g"}
+            ],
+            "evaluate": "蛋白质、碳水化合物和钾含量较高，热量很高，通常会加水食用，加水后水分率升高，热量下降，嘌呤含量较高，建议少量食用。",
+            "howEat": "莲子可直接食用，也可煲汤、炒食。莲子与百合煲粥是一个极富营养的搭配，可润燥养肺、滋补强身，还可治疗神经衰弱、心悸、失眠等。",
+            "EdibleTaboo": [
+                "适宜体质虚弱，心慌，失眠多梦，遗精者食用；适宜脾气虚，慢性腹泻之人食用；适宜癌症病人及放疗化疗后食用；适宜妇女脾肾亏虚的白带过多之人食用。",
+                "莲子尤其适合失眠者、心火旺盛者、体虚乏力者。但多食生莲子会有腹胀症状。另外，莲子的嘌呤含量稍高，痛风患者要少食。"
+            ]
+        },
+        {
+            "name": "杏仁", 
+            "EnglishName": "almond", 
+            "foodStatus": "少量吃",
+            "foodKind": "干果",
+            "img": "http://static.bietongfeng.com//fruit/5-12.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "45.4g"},
+                {"name": "嘌呤", "data": "31.70mg"},
+                {"name": "热量", "data": "562.00kcal"},
+                {"name": "碳水化合物", "data": "23.90g"},
+                {"name": "蛋白质", "data": "22.50g"},
+                {"name": "膳食纤维", "data": "31.70g"}
+            ],
+            "evaluate": "蛋白质、不饱和脂肪酸以及各种矿物质含量丰富，但热量很高，嘌呤含量较高，建议少量食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "韭菜", 
+            "EnglishName": "vegetables", 
+            "foodStatus": "少量吃",
+            "foodKind": "蔬菜",
+            "img": "http://static.bietongfeng.com//fruit/4-11.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.40g"},
+                {"name": "嘌呤", "data": "25.00mg"},
+                {"name": "热量", "data": "26.00kcal"},
+                {"name": "碳水化合物", "data": "4.60g"},
+                {"name": "蛋白质", "data": "2.40g"},
+                {"name": "膳食纤维", "data": "25.00g"}
+            ],
+            "evaluate": "胡萝卜素和钾含量很高的蔬菜，嘌呤含量适中，热量较低。但韭菜含有大量的草酸钙，多食会诱发肾结石，故韭菜对痛风患者来说应当谨慎食用。",
+            "howEat": "韭菜可炒、可拌，也可做配料、做馅。初春的韭菜品质最佳，晚秋次之，夏季最差。",
+            "EdibleTaboo": [
+                "韭菜适合便秘、寒性体质的人，能改善男子阳痿、女子痛经症状。",
+                "韭菜不易消化且容易上火，所以阴虚火旺、有眼疾和胃肠虚弱的人不宜食韭菜。"
+            ]
+        },
+        {
+            "name": "菜花", 
+            "EnglishName": "cauliflower", 
+            "foodStatus": "少量吃",
+            "foodKind": "蔬菜",
+            "img": "http://static.bietongfeng.com//fruit/4-33.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.20g"},
+                {"name": "嘌呤", "data": "25.00mg"},
+                {"name": "热量", "data": "24.00kcal"},
+                {"name": "碳水化合物", "data": "4.60g"},
+                {"name": "蛋白质", "data": "2.10g"},
+                {"name": "膳食纤维", "data": "25.00g"}
+            ],
+            "evaluate": "菜花是维生素C和维生素K的优质来源，而且热量较低，嘌呤含量适中，建议适量食用。",
+            "howEat": "菜花可炒食。菜花茎营养丰富，最好不要扔掉。菜花不宜烹煮时间过长，以免造成维生素损失。",
+            "EdibleTaboo": [
+                "适合心脏病、中风患者，但一次不宜食用过多。",
+                "红斑狼疮、尿少或无尿者要忌食。菜花含少量的致甲状腺肿物质，需要通过食用碘盐来中和。"
+            ]
+        },
+        {
+            "name": "无花果", 
+            "EnglishName": "fig", 
+            "foodStatus": "少量吃",
+            "foodKind": "水果",
+            "img": "http://static.bietongfeng.com//fruit/4-79.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.10g"},
+                {"name": "嘌呤", "data": "64.00mg"},
+                {"name": "热量", "data": "59.00kcal"},
+                {"name": "碳水化合物", "data": "16.00g"},
+                {"name": "蛋白质", "data": "1.50g"},
+                {"name": "膳食纤维", "data": "64.00g"}
+            ],
+            "evaluate": "无花果热量不高，营养比较丰富，除维生素和矿物质外，还富含多种植物化学物质，嘌呤含量较高，建议少量食用。",
+            "howEat": "可直接食用，也可和冬瓜、海带等一起煲汤，具有利湿消肿、降糖益肾、促进尿酸排泄等功效，适合痛风合并肾炎、糖尿病患者。",
+            "EdibleTaboo": [
+                "消化不良者、食欲不振者、高血脂患者、高血压患者、冠心病患者、动脉硬化患者、癌症患者、便秘者适宜食用。",
+                "脂肪肝患者、脑血管意外患者、腹泻者、正常血钾性周期性麻痹等患者不适宜食用；大便溏薄者不宜生食。"
+            ]
+        },
+        {
+            "name": "干李子", 
+            "EnglishName": "dried_plums", 
+            "foodStatus": "少量吃",
+            "foodKind": "干果",
+            "img": "http://static.bietongfeng.com//fruit/4-89.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "--g"},
+                {"name": "嘌呤", "data": "64.00mg"},
+                {"name": "热量", "data": "250.00kcal"},
+                {"name": "碳水化合物", "data": "65.00g"},
+                {"name": "蛋白质", "data": "2.50g"},
+                {"name": "膳食纤维", "data": "64.00g"}
+            ],
+            "evaluate": "李子干嘌呤含量较高，建议少量食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "葡萄柚", 
+            "EnglishName": "grapefruit", 
+            "foodStatus": "少量吃",
+            "foodKind": "水果",
+            "img": "http://static.bietongfeng.com//fruit_2/0e2614314bb94102acf1f9a6c045f148.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.30g"},
+                {"name": "嘌呤", "data": "15.00mg"},
+                {"name": "热量", "data": "33.00kcal"},
+                {"name": "碳水化合物", "data": "7.80g"},
+                {"name": "蛋白质", "data": "0.70g"},
+                {"name": "膳食纤维", "data": "15.00g"}
+            ],
+            "evaluate": "柚子中纤维含量较高的品种，水分含量亦很高，热量较低，减肥时作为水果可推荐食用。痛风患者可以吃大部分水果的，但也要注意，不要过量。痛风患者往往肾功能也不太好，而像柚子等水果又富含高钾，应该少吃，以免患上高钾血症。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "火龙果", 
+            "EnglishName": "pitaya", 
+            "foodStatus": "少量吃",
+            "foodKind": "水果",
+            "img": "http://static.bietongfeng.com//fruit/27e48734701f40cc9feab382240dfb86.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.14g"},
+                {"name": "嘌呤", "data": "50.00mg"},
+                {"name": "热量", "data": "51.00kcal"},
+                {"name": "碳水化合物", "data": "13.91g"},
+                {"name": "蛋白质", "data": "0.62g"},
+                {"name": "膳食纤维", "data": "50.00g"}
+            ],
+            "evaluate": "火龙果含有丰富的维生素和水溶性膳食纤维，能够减肥、降血压、润肠通便，对预治痛风并发肥胖、糖尿病有一定的疗效。但火龙果嘌呤含量较高，痛风患者应适量食用。",
+            "howEat": "直接食用，最好现买现吃，每天不超过100克。也可与其他水果制成饮料。",
+            "EdibleTaboo": [
+                "火龙果对咳嗽、气喘有独特疗效，还有预防便秘、防老年病变、抑制肿瘤等多种功效。",
+                "火龙果嘌呤含量稍高，痛风患者要少吃。体质虚冷的女性糖尿病患者，不宜多吃火龙果，可餐后饮用少量火龙果汁。"
+            ]
+        }
+    ],
+    "redFoodInfo": [
+        {
+            "name": "酵母粉", 
+            "EnglishName": "yeast_powder", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit/5-17.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "1.70g"},
+                {"name": "嘌呤", "data": "559.10mg"},
+                {"name": "热量", "data": "356.00kcal"},
+                {"name": "碳水化合物", "data": "45.50g"},
+                {"name": "蛋白质", "data": "47.60g"},
+                {"name": "膳食纤维", "data": "559.10g"}
+            ],
+            "evaluate": "作为食品添加剂，有一定的营养价值，但能量较高，嘌呤含量极高，建议不要食用。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "麦芽", 
+            "EnglishName": "malt", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit/4-2.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "7.00g"},
+                {"name": "嘌呤", "data": "500.00mg"},
+                {"name": "热量", "data": "307.00kcal"},
+                {"name": "碳水化合物", "data": "29.60g"},
+                {"name": "蛋白质", "data": "22.30g"},
+                {"name": "膳食纤维", "data": "500.00g"}
+            ],
+            "evaluate": "本品为禾本科植物大麦的成熟果实经发芽干燥而得，嘌呤含量极高，建议不要食用。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "小鱼干", 
+            "EnglishName": "little_dried_fish", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "海产品",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(60).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "26.62g"},
+                {"name": "嘌呤", "data": "1538.90mg"},
+                {"name": "热量", "data": "307.00kcal"},
+                {"name": "碳水化合物", "data": "9.85g"},
+                {"name": "蛋白质", "data": "12.10g"},
+                {"name": "膳食纤维", "data": "153.90g"}
+            ],
+            "evaluate": "一种高碳水化合物、高纤维、高蛋白的食品，嘌呤含量极高，建议不要食用。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "蚌蛤", 
+            "EnglishName": "clams", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "海产品",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(65).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.80g"},
+                {"name": "嘌呤", "data": "426.30mg"},
+                {"name": "热量", "data": "54.00kcal"},
+                {"name": "碳水化合物", "data": "0.70g"},
+                {"name": "蛋白质", "data": "10.90g"},
+                {"name": "膳食纤维", "data": "426.30g"}
+            ],
+            "evaluate": "河蚌热量很低且富含优质蛋白和钙、磷等矿物质，单含有一定量的胆固醇，嘌呤含量极高，建议不要食用。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "白带鱼皮", 
+            "EnglishName": "white_skin", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "肉/蛋类",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(97).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "4.20g"},
+                {"name": "嘌呤", "data": "3509.00mg"},
+                {"name": "热量", "data": "127.00kcal"},
+                {"name": "碳水化合物", "data": "3.10g"},
+                {"name": "蛋白质", "data": "17.70g"},
+                {"name": "膳食纤维", "data": "3509.00g"}
+            ],
+            "evaluate": "嘌呤含量极高，建议不要食用。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "小牛颈肉", 
+            "EnglishName": "the_mavericks_neck_meat", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "肉/蛋类",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(76).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "1.30g"},
+                {"name": "嘌呤", "data": "??mg"},
+                {"name": "热量", "data": "130.00kcal"},
+                {"name": "碳水化合物", "data": "0.00g"},
+                {"name": "蛋白质", "data": "??g"},
+                {"name": "膳食纤维", "data": "1260.00g"}
+            ],
+            "evaluate": "小牛颈肉嘌呤含量极高，建议不要食用。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "发芽豆类", 
+            "EnglishName": "sprouted_beans", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "豆类",
+            "img": "http://static.bietongfeng.com//fruit/4-3.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.70g"},
+                {"name": "嘌呤", "data": "500.00mg"},
+                {"name": "热量", "data": "128.00kcal"},
+                {"name": "碳水化合物", "data": "19.40g"},
+                {"name": "蛋白质", "data": "12.40g"},
+                {"name": "膳食纤维", "data": "500.00g"}
+            ],
+            "evaluate": "含有大量的铁，含有大量蛋白质，不会如黄豆一样造成胀肚，嘌呤含量极高，建议不要食用。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "豆芽", 
+            "EnglishName": "sprouted_beans", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "豆类",
+            "img": "http://static.bietongfeng.com//fruit/4-69.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "1.60g"},
+                {"name": "嘌呤", "data": "500.00mg"},
+                {"name": "热量", "data": "44.00kcal"},
+                {"name": "碳水化合物", "data": "4.50g"},
+                {"name": "蛋白质", "data": "4.50g"},
+                {"name": "膳食纤维", "data": "500.00g"}
+            ],
+            "evaluate": "水分含量很高的一种蔬菜，蛋白质、碳水化合物等含量约是绿豆芽的两倍，含较多纤维，嘌呤含量极高，建议不要食用。",
+            "howEat": "绿豆芽味甘、性寒、归心、胃经；具有清热解毒、醒酒利尿的功效。炒、煮、凉拌等烹调方式均可。",
+            "EdibleTaboo": [
+                "青少年可多食，孕妇多食对焕姐妊娠性高血压和产后便秘有一定效果。",
+                "虚寒尿多者慎食。"
+            ]
+        },
+        {
+            "name": "香菇", 
+            "EnglishName": "mushroom", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "蔬菜",
+            "img": "http://static.bietongfeng.com//fruit/4-72.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.40g"},
+                {"name": "嘌呤", "data": "214.00mg"},
+                {"name": "热量", "data": "19.00kcal"},
+                {"name": "碳水化合物", "data": "5.20g"},
+                {"name": "蛋白质", "data": "2.20g"},
+                {"name": "膳食纤维", "data": "214.00g"}
+            ],
+            "evaluate": "香菇氨基酸和纤维素含量丰富，新鲜香菇还含有一定量的维生素，单位热量也比较低，但嘌呤含量极高，建议不要食用。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "贫血者、抵抗力低下者、高血脂患者、高血压患宜) 者、动脉硬化患者、糖尿病患者、癌症患者、肾炎患者食用。",
+                "脾胃寒湿气滞或皮肤骚痒病患者忌食。"
+            ]
+        },
+        {
+            "name": "芦笋", 
+            "EnglishName": "asparagus", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "蔬菜",
+            "img": "http://static.bietongfeng.com//fruit/4-70.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.20g"},
+                {"name": "嘌呤", "data": "160.00mg"},
+                {"name": "热量", "data": "19.00kcal"},
+                {"name": "碳水化合物", "data": "4.90g"},
+                {"name": "蛋白质", "data": "1.40g"},
+                {"name": "膳食纤维", "data": "160.00g"}
+            ],
+            "evaluate": "芦笋的膳食纤维含量较为丰富，有助于缓解便秘，降低血脂及胆固醇，嘌呤含量极高，建议不要食用。",
+            "howEat": "暂无吃法介绍哟~",
+            "EdibleTaboo": [
+                "一般人群均可食用。",
+                "痛风和糖尿病人不宜多食。"
+            ]
+        },
+        {
+            "name": "腐竹", 
+            "EnglishName": "bean_curd_stick", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "蔬菜",
+            "img": "http://static.bietongfeng.com//fruit_2/3069a74ec8a742f98a53592d2e7f9fc1.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "21.70g"},
+                {"name": "嘌呤", "data": "159.80mg"},
+                {"name": "热量", "data": "459.00kcal"},
+                {"name": "碳水化合物", "data": "7.62g"},
+                {"name": "蛋白质", "data": "44.60g"},
+                {"name": "膳食纤维", "data": "159.80g"}
+            ],
+            "evaluate": "腐竹为一种常见的黄豆制品，处理后的腐竹，嘌呤较高，痛风患者应谨慎食用。",
+            "howEat": "腐竹色泽黄白，油光透亮，含有丰富的蛋白质及多种营养成分，用清水浸泡(夏凉冬温)3~5小时即可发开。可荤、素、烧、炒、凉拌、汤食等，食之清香爽口，草、素食别有风味。腐竹适于久放，但应放在干燥通风之处。过伏天的腐竹，要经阳光晒、凉风吹数次即可。",
+            "EdibleTaboo": [
+                "腐竹具有良好的健脑作用，它能预防老年痴呆症的宜发生。",
+                "腐竹的营养价值虽高，但有些人如肾炎、肾功能不忌全者最好少吃，否则会加重病情。糖尿病，酸中毒病人以及痛风患者或正在服用四环素、优降灵等药的病人也应慎食。减肥者也别多吃。"
+            ]
+        },
+        {
+            "name": "鸡胸肉", 
+            "EnglishName": "chicken_breast", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "肉/蛋类",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(12).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "5.00g"},
+                {"name": "嘌呤", "data": "207.90mg"},
+                {"name": "热量", "data": "104.50kcal"},
+                {"name": "碳水化合物", "data": "2.50g"},
+                {"name": "蛋白质", "data": "19.40g"},
+                {"name": "膳食纤维", "data": "207.90g"}
+            ],
+            "evaluate": "鸡胸脯肉是鸡身上热量比较低的部位，然而嘌呤较高，建议谨慎食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "猪肾", 
+            "EnglishName": "pig_kidney", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "肉/蛋类",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(23).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "3.20g"},
+                {"name": "嘌呤", "data": "132.60mg"},
+                {"name": "热量", "data": "64.32kcal"},
+                {"name": "碳水化合物", "data": "1.40g"},
+                {"name": "蛋白质", "data": "15.40g"},
+                {"name": "膳食纤维", "data": "132.60g"}
+            ],
+            "evaluate": "猪肾富含优质蛋白，但同时胆固醇含量也较高，嘌呤含量较高，建议谨慎食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "鲢鱼", 
+            "EnglishName": "chub", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "海产品",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(50).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "7.20g"},
+                {"name": "嘌呤", "data": "202.40mg"},
+                {"name": "热量", "data": "104.00kcal"},
+                {"name": "碳水化合物", "data": "--g"},
+                {"name": "蛋白质", "data": "17.80g"},
+                {"name": "膳食纤维", "data": "202.40g"}
+            ],
+            "evaluate": "鲢鱼是一种常见淡水鱼，热量较低且蛋白质含量丰富，但嘌呤极高，谨慎食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "浓肉汁", 
+            "EnglishName": "thick_gravy", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(68).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "1.57g"},
+                {"name": "嘌呤", "data": "500.00mg"},
+                {"name": "热量", "data": "48.00kcal"},
+                {"name": "碳水化合物", "data": "1.33g"},
+                {"name": "蛋白质", "data": "7.30g"},
+                {"name": "膳食纤维", "data": "500.00g"}
+            ],
+            "evaluate": "在煲汤的过程中，会有大量的嘌呤溶解在汤中，肉汤的嘌呤含量极高，建议不要食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "鸡肉汤", 
+            "EnglishName": "chicken_soup", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit/2-%20(69).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "2.38g"},
+                {"name": "嘌呤", "data": "500.00mg"},
+                {"name": "热量", "data": "43.00kcal"},
+                {"name": "碳水化合物", "data": "2.17g"},
+                {"name": "蛋白质", "data": "3.80g"},
+                {"name": "膳食纤维", "data": "500.00g"}
+            ],
+            "evaluate": "此类菜肴通常较为清淡热量较低，但在煲汤的过程中，会有大量的嘌呤溶解在汤中，嘌呤含量极高，建议不要食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "黄豆", 
+            "EnglishName": "soybean", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "豆类",
+            "img": "http://static.bietongfeng.com//fruit/3-(1).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "16.00g"},
+                {"name": "嘌呤", "data": "218.10mg"},
+                {"name": "热量", "data": "359.00kcal"},
+                {"name": "碳水化合物", "data": "34.20g"},
+                {"name": "蛋白质", "data": "35.00g"},
+                {"name": "膳食纤维", "data": "218.10g"}
+            ],
+            "evaluate": "一种富含优质蛋白和纤维的食品，其脂肪也较高，热量较高，嘌呤含量较高，建议谨慎食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "绿豆", 
+            "EnglishName": "mung_bean", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "豆类",
+            "img": "http://static.bietongfeng.com//fruit/3-(2).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "0.80g"},
+                {"name": "嘌呤", "data": "195.70mg"},
+                {"name": "热量", "data": "316.00kcal"},
+                {"name": "碳水化合物", "data": "62.00g"},
+                {"name": "蛋白质", "data": "21.60g"},
+                {"name": "膳食纤维", "data": "195.70g"}
+            ],
+            "evaluate": "其主要营养成分碳水化合物含量与粗粮接近，且纤维含量极高，嘌呤含量高，建议谨慎食用。",
+            "howEat": "绿豆可煮粥，也可煲汤食用，煮粥时不宜加碱。其中绿豆与槐花、荷叶煮粥食用，可去脂降压、清热解毒。",
+            "EdibleTaboo": [
+                "--",
+                "煮绿豆时不可煮得过烂，以免其中的有机酸和维生素遭到破坏，降低其清热解毒效果。其不宜与温补性药物同食，会降低功效。"
+            ]
+        },
+        {
+            "name": "豌豆（干）", 
+            "EnglishName": "peas(dried)", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "豆类",
+            "img": "http://static.bietongfeng.com//fruit/3-(16).jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "1.10g"},
+                {"name": "嘌呤", "data": "229.10mg"},
+                {"name": "热量", "data": "313.00kcal"},
+                {"name": "碳水化合物", "data": "65.80g"},
+                {"name": "蛋白质", "data": "20.30g"},
+                {"name": "膳食纤维", "data": "229.10g"}
+            ],
+            "evaluate": "干豌豆水分含量低、热量高，热量主要来自碳水化合物和蛋白质，常被做成添加油的膨化食品，嘌呤含量高，建议谨慎食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "啤酒", 
+            "EnglishName": "beer", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit/5-20.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "--g"},
+                {"name": "嘌呤", "data": "19.30mg"},
+                {"name": "热量", "data": "32.00kcal"},
+                {"name": "碳水化合物", "data": "--g"},
+                {"name": "蛋白质", "data": "0.40g"},
+                {"name": "膳食纤维", "data": "79.30g"}
+            ],
+            "evaluate": "啤酒为中嘌呤食物，建议痛风病人在病情发作时少吃或不吃。啤酒的嘌呤含虽不很高，但由于啤酒含有很多的鸟苷酸，代谢后都形成嘌呤，因此，喝啤酒后人体的嘌呤量将大幅升高，所以痛风病人禁喝啤酒。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "红酒", 
+            "EnglishName": "red_wine", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit/5-32.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "--g"},
+                {"name": "嘌呤", "data": "5.00mg"},
+                {"name": "热量", "data": "74.00kcal"},
+                {"name": "碳水化合物", "data": "--g"},
+                {"name": "蛋白质", "data": "0.10g"},
+                {"name": "膳食纤维", "data": "5.00g"}
+            ],
+            "evaluate": "红酒为低嘌呤食物，虽然红酒本身嘌呤含量虽然不高，约2～5mg/100ml，但它含有较多鸟苷酸，代谢后会产生嘌呤。",
+            "howEat": "建议痛风患者在缓解期每天饮用不超过150ml。",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        }
+    ],
+    "video": [
+        {
+            "url": "https://200026423.vod.myqcloud.com/200026423_1aff8b07031288bf1080788f87b9572eb9f5d09a.f20.mp4",
+            "name": "鱼香肉丝",
+            "evaluate": "一道鱼香肉丝，爽滑适口，不愧是佳肴经典哦~~~"
+        },
+        {
+            "url": "https://1252571554.vod2.myqcloud.com/97bd8e6cvodtransgzp1252571554/662ae3e69031868223386261607/v.f30.mp4",
+            "name": "牙签牛肉",
+            "evaluate": "牙签肉，一直是炒受欢迎的一道菜，其实叫它菜，我觉得有点不贴切，因为各地的美食街上都有它的存在，貌似叫小吃更合适。至于做牙签肉的肉，有用猪肉，也有用牛肉，今天这个是用牛肉，因为我觉得牛肉做出来的更香，更有嚼劲。"
+        },
+        {
+            "url": "https://200026423.vod.myqcloud.com/200026423_3ccc3b5ca85f7164d58f4e962a272fc00e7d8ef5.f20.mp4",
+            "name": "孜然土豆烩豆腐",
+            "evaluate": "煎过的土豆和豆腐，香味浓郁，再用孜然粉烩制，口感独特，您喜欢吗？"
+        },
+        {
+            "url": "https://1252571554.vod2.myqcloud.com/97bd8e6cvodtransgzp1252571554/1cbc24e29031868223201862817/v.f30.mp4",
+            "name": "鸡蛋豆腐",
+            "evaluate": "教你如何用多余的豆浆，做成软嫩鲜滑的鸡蛋豆腐，厨房技能提升85% 裹淀粉炸一下， 再沾番茄酱，老干妈吃， 又是另一种新口感啦， 表面焦香酥脆， 内里柔嫩爽滑， 差异的两种口感随意切换。"
+        },
+        {
+            "url": "https://1252571554.vod2.myqcloud.com/97bd8e6cvodtransgzp1252571554/2144fb199031868223280130309/v.f20.mp4",
+            "name": "麻麻辣辣干锅虾",
+            "evaluate": "嗨，我是小鹿！ 入秋了，秋膘贴起务必来~ 问我饿的时候最想吃什么？ 必须是麻辣香锅啊！！ 这期要来教大家做“随便放什么都好吃到冲出宇宙的”麻辣香锅！ 把爱吃的通通炒在一起，是一道非常freestyle的菜！ 麻辣香锅其实很简单！ 想做出和外面一样好吃的关键就是：食材一定要先油炸！ 经过高温炸过的食材才会达到外酥里嫩的效果，和料炒过吃起来才会很香香哒，味道浓郁又清爽，吃一大份都不觉得腻！ get这个秘诀，你就能做出永不言败的麻辣香锅啦！ 用它招待家人和朋友最棒棒了！ 这次我把最爱的虾炒了进去，你们爱吃什么记得留言给我哟！ 嘿嘿，一起来看视频吧~"
+        },
+        {
+            "url": "https://200026423.vod.myqcloud.com/200026423_d4a8fda06e755c017148d2618f6a61493e74ed19.f20.mp4",
+            "name": "田园土豆饼",
+            "evaluate": "下锅炒香，煮好的土豆压成泥，放入炒好的食材混合抓匀，加盐、黑胡椒搅拌匀，做成饼。"
+        },
+        {
+            "url": "https://1252571554.vod2.myqcloud.com/97bd8e6cvodtransgzp1252571554/eec461127447398155231259981/v.f30.mp4",
+            "name": "虎皮鸡蛋",
+            "evaluate": "很多朋友都喜欢吃鸡蛋，什么白煮蛋，荷包蛋，炒鸡蛋。。平时吃多了，来点不一样的滋味！呐，今天嘟嘟熊就在家教大家一道花样鸡蛋吃法-虎皮鸡蛋。 蛋白层经过油炸以后，皮层起皱，看上去形似虎皮，故名“虎皮鸡蛋”，味道不要太好吃噢！ 卤蛋般的咸香，红烧肉般的口感，妥妥征服了我！口感很赞，做了一大锅，还不够小伙伴分呢。"
+        },
+        {
+            "url": "https://200026423.vod.myqcloud.com/200026423_fc983191e2f0b4538f98dac192439794e4a60850.f20.mp4",
+            "name": "萝卜排骨汤",
+            "evaluate": "咯嘣脆的萝卜，用来做汤实在是再美味不过了呀~~~~"
+        },
+        {
+            "url": "https://200026423.vod.myqcloud.com/200026423_041415ab90c3a3ecc1b0408f0af9466b872c67f1.f20.mp4",
+            "name": "杂锅卤",
+            "evaluate": "食材丰富、味道浓郁鲜香，荤素搭配，喜欢吃卤味的朋友，可绝对不能错过这样一道杂锅卤哦！"
+        },
+        {
+            "url": "https://1252571554.vod2.myqcloud.com/97bd8e6cvodtransgzp1252571554/d06af6af4564972818537727041/v.f20.mp4",
+            "name": "蒜泥白肉—五花肉别再红烧，和它搭惊为天人",
+            "evaluate": "红烧肉就已经很好吃了，尤其是嘟妈做的，嘟嘟熊每次吃起来可满足了。但是今天这道又好做又简单的家常硬菜-蒜泥白肉，完全不亚于红烧肉的口感，不用炒不用油，简单煮一煮拌一拌就好，沾酱汁尝上一片，咸！辣！鲜！香！融汇得恰到好处，且肥而不腻！这口感，无论吃过多少回，想起了还是让人馋涎欲滴~ 蒜泥白肉，属于四川经典名菜，极为下饭，在四川那边，家家都会做来吃，吃的时候用筷子拌合，随着热气，一股酱油、芝麻、辣椒和大蒜组合的浓郁香味扑鼻而来，使人食欲大增，可谓一流的享受哦~ 在家做好这道菜，唯一需要注意的就是食材了，最好选用土猪的后臀肉或者五花肉，味道才会更为甘香可口，煮好的猪肉，切成薄片，搭配黄瓜片，蘸着蒜泥酱汁送入口，香辣鲜美，蒜味浓厚，爽脆嫩滑，难怪吃过的人都美其名曰“川味一绝”。"
+        },
+        {
+            "url": "https://1252571554.vod2.myqcloud.com/97bd8e6cvodtransgzp1252571554/b2b1ad4c9031868222916731766/f0.f20.mp4",
+            "name": "照烧豆腐配家常面",
+            "evaluate": "家里冰箱只剩下一块老豆腐了，但是没关系，简单料理一下也可以说是唾手可得的美食，照烧豆腐的制作过程不复杂，油煎两，两面黄之后，加入酱油料酒糖，大火收汁后分分钟出锅，配上一份简单的面条，一个人也可以吃的很满足。"
+        },
+        {
+            "url": "https://200026423.vod.myqcloud.com/200026423_cd1500cd2ba056769c3408b73ab927faba761f4f.f20.mp4",
+            "name": "肉酱焗螺丝意面",
+            "evaluate": "酸酸甜甜的肉酱混合爽滑的意粉，香喷喷。平时可以多做点番茄肉酱存放在冰箱，想吃的时候煮个意粉，热了肉酱，撒上芝士，放入烤箱烤到芝士融化，就是芝士肉酱意粉，浓浓的芝士香味叫人欲罢不能！"
+        },
+        {
+            "url": "https://200026423.vod.myqcloud.com/200026423_e9611b38700dedb8e8e670e1a501ed960deb1f94.f20.mp4",
+            "name": "红烧肉",
+            "evaluate": "红烧肉，入口香味浓郁，肥而不腻...."
+        },
+        {
+            "url": "https://1252571554.vod2.myqcloud.com/97bd8e6cvodtransgzp1252571554/827fe4527447398156837541209/v.f30.mp4",
+            "name": "黄焖鸡",
+            "evaluate": "吃了黄焖鸡，生活有动力。"
+        },
+        {
+            "url": "https://1252571554.vod2.myqcloud.com/97bd8e6cvodtransgzp1252571554/925b63447447398156620531017/v.f30.mp4",
+            "name": "凉拌海蜇",
+            "evaluate": "一般的海蜇头为了能保存更长时间，都会在海蜇加工过程中使用脱水剂——明矾，所以买回家的海蜇不但很咸还有明矾的味道，如果不充分泡发洗净，去除咸味，可是一点不好吃哦。 海蜇其实是我们熟悉的漂亮、优雅、可爱的水母的一种——赤月水母，经加工泡制而成的。海蜇最好吃的部位是海蜇头，肉质厚且很脆，而海蜇头并不是海蜇的头部，其实是海蜇的触须，也就是它的脚丫子。它含有人体需要的多种营养成分，尤其含有人们饮食中所缺的碘，是一种重要的营养食品，其所含的甘露多糖胶质对防治动脉硬化有一定功效。营养又美味，夏天到了你可一定要尝尝看！"
+        },
+        {
+            "url": "https://200026423.vod.myqcloud.com/200026423_2eba70115db855d557ce46692452e9c7eed2889c.f20.mp4",
+            "name": "自制酸奶",
+            "evaluate": "最初的酸奶可能起源于偶然的机会，那时羊奶存放时经常会变质，这是由于细菌污染了羊奶所致，但是有一次空气中的乳酸菌偶然进入羊奶，使羊奶发生了变化，变得更为酸甜适口了，这就是最早的酸奶。牧人发现这种酸奶很好喝，为了能继续得到酸奶，便把它接种到煮开后冷却的新鲜羊奶中，经过一段时间的培养发酵，便获得了新的酸奶。"
+        },
+        {
+            "url": "https://200026423.vod.myqcloud.com/200026423_702ba7ab40b5ebc5ca5d1a2786379047d15bd09f.f20.mp4",
+            "name": "生煎蒜子排骨",
+            "evaluate": "生煎蒜子排骨，制作简单，排骨酥软可口，蒜香味十足，是值得推荐的一道家常菜！"
+        },
+        {
+            "url": "https://200026423.vod.myqcloud.com/200026423_b2f996fd8f7549983ffd19d21cc39360c52791aa.f20.mp4",
+            "name": "黑胡椒猪扒",
+            "evaluate": "酥脆的外壳、软嫩、细腻的内里，加上酸酸甜甜的番茄酱，一道黑胡椒猪扒真是不错的待客小吃呢！"
+        },
+        {
+            "url": "https://200026423.vod.myqcloud.com/200026423_5d08c1197c72c0c80bd93077d2634b9a87bbd8e3.f20.mp4",
+            "name": "糯米蒸排骨",
+            "evaluate": "糯米蒸排骨是一道超级赞的家常宴客菜，每一块排骨、每一粒糯米饭都带着淡淡的荷叶香，蒸出来的肉鲜嫩无比，香而不腻。"
+        },
+        {
+            "url": "https://200026423.vod.myqcloud.com/200026423_2e41a903293620658684b1039e312f0fc7a1ebb3.f20.mp4",
+            "name": "冬瓜虾仁卷",
+            "evaluate": "冬瓜卷把虾仁卷起来，和冬瓜一起清蒸后，更加的爽口和鲜美。"
+        }
+    ]
+}
