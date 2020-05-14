@@ -7,6 +7,9 @@
     <div class="container">
         <div class="radius"></div>
         <p>{{this.userInfo.userName}}</p>
+        <div class="changePwd" @click="changePwd">
+          修改密码
+        </div>
     </div>
 
     <router-link to="/login">
@@ -14,6 +17,8 @@
             退出登录
         </div>
     </router-link>
+
+    <ChangePwd :changeStatus="changeStatus" @off="off"></ChangePwd>
 
     <!-- S 底部导航 -->
     <Bottom :title="title"></Bottom>
@@ -25,6 +30,7 @@
 <script>
 // 组件路径
 import Bottom from '@/components/bottom'
+import ChangePwd from '@/components/changePwd'
 // json文件
 import Json from '@/data.json'
 // utils.js文件
@@ -38,14 +44,20 @@ export default {
       userInfo: {
           userName: '',
           pwd: ''
-      }
+      },
+      changeStatus: false
     }
   },
   watch: {
     
   },
   methods: {
-    
+    changePwd(){
+      this.changeStatus = true;
+    },
+    off(changeStatus){
+      this.changeStatus = changeStatus;
+    }
   },
   created(){
     
@@ -54,7 +66,8 @@ export default {
     this.userInfo = gloab.userInfo;
   },
   components: {
-    Bottom
+    Bottom,
+    ChangePwd
   }
 }
 
@@ -87,6 +100,9 @@ $greenColor: #2fa548;
             text-align: center;
             margin: 20px auto;
             font-size: 14px;
+        }
+        .changePwd{
+          text-align: center;
         }
     }
     .toLogin{

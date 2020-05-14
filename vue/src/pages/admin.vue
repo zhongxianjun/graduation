@@ -6,7 +6,11 @@
         </div>
         <hr>
     </div>
-    <div class="toAns">
+    <div class="nav">
+        <div class="toAnsNav" @click="toAnsNav">留言管理</div>
+        <div class="userNav" @click="userNav">用户管理</div>
+    </div>
+    <div class="toAns" v-if="status">
         <scroller>
             <div class="content" v-for="(item, i) in allMesArr" :key="i">
                 <div class="ques text">
@@ -36,6 +40,47 @@
             </div>
         </scroller>
     </div>
+    
+    <div class="user" v-else-if="!status">
+        <div class="find">
+            <el-input v-model="input" placeholder="请输入用户名或者账号查找">
+                <i slot="suffix" class="el-input__icon el-icon-search" @click="search"></i>
+            </el-input>
+        </div>
+        <div class="userList">
+            <el-table
+            :data="userInfo"
+            style="width: 100%">
+
+                <el-table-column
+                prop="userName"
+                label="用户名"
+                width="90">
+                </el-table-column>
+
+                <el-table-column
+                prop="userName"
+                label="账号"
+                width="90">
+                </el-table-column>
+
+                <el-table-column
+                prop="pwd"
+                label="密码"
+                width="90">
+                </el-table-column>
+
+                <el-table-column label="操作" width="90">
+                    <template slot-scope="scope">
+                        <el-button
+                        size="mini"
+                        type="danger"
+                        @click="handleDelete(scope.$index, scope.row)">删除</el-button>
+                    </template>
+                </el-table-column>
+            </el-table>
+        </div>
+    </div>
   </div>
 </template>
 
@@ -49,11 +94,10 @@ export default {
   name: 'Admin',
   data () {
     return {
-        userInfo: {
-            userName: '',
-            pwd: ''
-        },
-        allMesArr: []
+        input: '',
+        userInfo: {},
+        allMesArr: [],
+        status: 1
     }
   },
   methods: {
@@ -70,18 +114,56 @@ export default {
     upDate(que, ans, num){
         gloab.allMesArr.map((item, i)=>{
             if(que == item.question){
-                console.log(item);
                 item.answer = ans;
                 this.allMesArr.splice(num, 1);
             }
         })
+    },
+    toAnsNav(){
+        this.status = 1;
+    },
+    userNav(){
+        this.status = 0;
+    },
+    handleDelete(index, row) {
+        if(row.userName == "admin"){
+            alert("不允许删除管理员账号");
+        }else{
+            this.$confirm('此操作将删除该用户, 是否继续?', '提示', {
+                    confirmButtonText: '确定',
+                    cancelButtonText: '取消',
+                    type: 'warning',
+                    center: true
+                }).then(() => {
+                    this.$message({
+                        type: 'success',
+                        message: '删除成功!'
+                    });
+                    this.userInfo.splice(index, 1);
+                }).catch(() => {
+                    this.$message({
+                        type: 'info',
+                        message: '已取消删除'
+                    });    
+                }); 
+        }
+
+        gloab.user = this.userInfo;
+    },
+    search(e){
+        this.userInfo = [];
+        gloab.user.map((item, i) => {
+            if(item.userName.toString().indexOf(this.input) >= 0){
+                this.userInfo.push(item);
+            }
+        });
     }
   },
   created(){
     
   },
   mounted(){
-    this.userInfo = gloab.userInfo;
+    this.userInfo = gloab.user;
     this.getGloab();
   }
 }
@@ -93,7 +175,7 @@ export default {
 $greenColor: #2fa548;
 
 .admin{
-    width: 100%;
+    width: 100vw;
     position: relative;
     .top{
         position: absolute;
@@ -106,9 +188,26 @@ $greenColor: #2fa548;
             line-height: 40px;
         }
     }
+    .nav{
+        position: absolute;
+        top: 40px;
+        left: 0;
+        display: flex;
+        text-align: center;
+        border-bottom: 1px solid #ccc;
+        .toAnsNav{
+            width: 50vw;
+            line-height: 40px;
+        }
+        .userNav{
+            width: calc(50vw - 1px);
+            line-height: 40px;
+            border-left: 1px solid #ccc;
+        }
+    }
     .toAns{
         position: absolute;
-        top: 52px;
+        top: 92px;
         left: 0;
         bottom: 20px;
         width: 100%;
@@ -138,6 +237,12 @@ $greenColor: #2fa548;
             margin: 0 auto;
             padding-bottom: 36px;
         }
+    }
+    .user{
+        width: 100%;
+        position: absolute;
+        top: 92px;
+        left: 0;
     }
 }
 </style>

@@ -41,7 +41,7 @@
             </el-form-item>
         </el-form>
     </div>
-    <!-- E 登录 -->
+    <!-- E 注册 -->
     
   </div>
 </template>

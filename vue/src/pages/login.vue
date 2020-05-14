@@ -97,19 +97,31 @@ export default {
                 try {
                     switch (this.account) {
                         case gloab.user[0].userName.toString():
-                            this.pwdStatus(this.pwd, 0);
+                            this.pwdStatus(this.account, this.pwd, 0);
                             break;
                         case gloab.user[1].userName.toString():
-                            this.pwdStatus(this.pwd, 1);
+                            this.pwdStatus(this.account, this.pwd, 1);
                             break;
                         case gloab.user[2].userName.toString():
-                            this.pwdStatus(this.pwd, 2);
+                            this.pwdStatus(this.account, this.pwd, 2);
                             break;
                         case gloab.user[3].userName.toString():
-                            this.pwdStatus(this.pwd, 3);
+                            this.pwdStatus(this.account, this.pwd, 3);
                             break;
                         case gloab.user[4].userName.toString():
-                            this.pwdStatus(this.pwd, 4);
+                            this.pwdStatus(this.account, this.pwd, 4);
+                            break;
+                        case gloab.user[5].userName.toString():
+                            this.pwdStatus(this.account, this.pwd, 5);
+                            break;
+                        case gloab.user[6].userName.toString():
+                            this.pwdStatus(this.account, this.pwd, 6);
+                            break;
+                        case gloab.user[7].userName.toString():
+                            this.pwdStatus(this.account, this.pwd, 7);
+                            break;
+                        case gloab.user[8].userName.toString():
+                            this.pwdStatus(this.account, this.pwd, 8);
                             break;
                     
                         default:
@@ -118,7 +130,8 @@ export default {
                             break;
                     }
                 } catch (error) {
-                    console.log(error);
+                    this.account = '';
+                    this.warningStatus = true;
                 }
                 
             }
@@ -138,13 +151,13 @@ export default {
             clearTimeout(timeout);
         }, 2000);
     },
-    pwdStatus(pwd, num){
+    pwdStatus(account, pwd, num){
         if(pwd == gloab.user[num].pwd){
             let user = {
                 userName: this.account,
                 pwd: pwd
             };
-            if(num == 1){
+            if(account == "admin"){
                 this.$router.push({path: '/admin', query: {userInfo: user}}).catch(err => {
                     
                 }); 
