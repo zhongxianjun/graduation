@@ -40,6 +40,11 @@
     </div>  
     <!-- E 提示框 -->
 
+    
+    <div class="allTitle">
+        疾病食谱查询系统
+    </div>
+
     <!-- S 登录 -->
     <div class="container">
         <div class="title">
@@ -193,10 +198,17 @@ export default {
         margin-left: -25%;
         width: 200px;
     }
+    .allTitle{
+        width: 320px;
+        font-size: 24px;
+        font-weight: bold;
+        margin: 20% auto;
+        text-align: center;
+    }
     .container{
         width: 320px;
         min-height: 200px;
-        margin: 50% auto;
+        margin: 30% auto;
         text-align: center;
         .title{
             font-size: 18px;

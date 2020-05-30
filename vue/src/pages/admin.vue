@@ -7,12 +7,11 @@
         <hr>
     </div>
     <div class="nav">
-        <div class="toAnsNav" @click="toAnsNav">留言管理</div>
-        <div class="userNav" @click="userNav">用户管理</div>
+        <div class="navList" :class="status==i?'active':''" v-for="(item,i) in navList" :key="i" @click="toAnsNav(i)">{{item.name}}</div>
     </div>
-    <div class="toAns" v-if="status">
+    <div class="toAns" v-if="status==0">
         <scroller>
-            <div class="content" v-for="(item, i) in allMesArr" :key="i">
+            <div class="content" v-for="(item, i) in respondMesArr" :key="i">
                 <div class="ques text">
                     <p>提问：</p>
                     <el-input
@@ -40,8 +39,39 @@
             </div>
         </scroller>
     </div>
+
+    <div class="message" v-else-if="status==1">
+        <scroller>
+            <div class="content" v-for="(item, i) in allMesArr" :key="i">
+                <div class="ques text">
+                    <p>提问：</p>
+                    <el-input
+                        type="textarea"
+                        :rows="2"
+                        v-model="item.question"
+                        :readonly="true">
+                    </el-input>
+                </div>
+                <div class="ans text">
+                    <p>回答:</p>
+                    <el-input
+                        type="textarea"
+                        :rows="4"
+                        v-model="item.answer"
+                        placeholder="正在等待回答...">
+                    </el-input>
+                </div>
+                <div class="btn">
+                    <el-button type="danger" @click="delMes(i)">删除</el-button>
+                </div>
+            </div>
+            <div class="tips">
+                暂无更多问题...
+            </div>
+        </scroller>
+    </div>
     
-    <div class="user" v-else-if="!status">
+    <div class="user" v-else-if="status==2">
         <div class="find">
             <el-input v-model="input" placeholder="请输入用户名或者账号查找">
                 <i slot="suffix" class="el-input__icon el-icon-search" @click="search"></i>
@@ -97,17 +127,25 @@ export default {
         input: '',
         userInfo: {},
         allMesArr: [],
-        status: 1
+        respondMesArr: [],
+        status: 0,
+        navList: [
+            {name: "留言回复"},
+            {name: "留言管理"},
+            {name: "用户管理"}
+        ]
     }
   },
   methods: {
     toLogin(){
         this.$router.push('/login');
     },
-    getGloab(){
+    getGloab(){     //获取全局留言信息
+        this.allMesArr = gloab.allMesArr;
+
         gloab.allMesArr.map((item, i)=>{
             if(!item.answer){
-                this.allMesArr.push(item);
+                this.respondMesArr.push(item);
             }
         })
     },
@@ -115,15 +153,38 @@ export default {
         gloab.allMesArr.map((item, i)=>{
             if(que == item.question){
                 item.answer = ans;
-                this.allMesArr.splice(num, 1);
+                this.respondMesArr.splice(num, 1);
             }
         })
     },
-    toAnsNav(){
-        this.status = 1;
+    toAnsNav(index){
+        this.status = index;
+
+        if(index == 1){
+            this.allMesArr = gloab.allMesArr;
+        }
     },
-    userNav(){
-        this.status = 0;
+    delMes(num){
+        this.$confirm('此操作将永久删除该留言, 是否继续?', '提示', {
+            confirmButtonText: '确定',
+            cancelButtonText: '取消',
+            type: 'warning',
+            center: true
+        }).then(() => {
+            this.allMesArr.splice(num, 1);
+            gloab.allMesArr = this.allMesArr;
+            gloab.getPrivateArr(gloab.mesArr, gloab.otherMesArr);
+
+            this.$message({
+                type: 'success',
+                message: '删除成功!'
+            });
+        }).catch(() => {
+            this.$message({
+                type: 'info',
+                message: '已取消删除'
+            });
+        });
     },
     handleDelete(index, row) {
         if(row.userName == "admin"){
@@ -173,7 +234,9 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" type="text/css" scoped>
 $greenColor: #2fa548;
-
+.el-message-box{
+    width: 280px;
+}
 .admin{
     width: 100vw;
     position: relative;
@@ -192,17 +255,18 @@ $greenColor: #2fa548;
         position: absolute;
         top: 40px;
         left: 0;
+        width: 100vw;
         display: flex;
+        justify-content: space-between;
         text-align: center;
         border-bottom: 1px solid #ccc;
-        .toAnsNav{
-            width: 50vw;
+        .navList{
+            width: 33%;
             line-height: 40px;
+            border: 1px solid #ccc;
         }
-        .userNav{
-            width: calc(50vw - 1px);
-            line-height: 40px;
-            border-left: 1px solid #ccc;
+        .active{
+            background: #ccc;
         }
     }
     .toAns{
@@ -212,6 +276,39 @@ $greenColor: #2fa548;
         bottom: 20px;
         width: 100%;
         height: calc(100vh - 52px);
+        .content{
+            margin: 20px 10px 40px 10px;
+            .text{
+                display: flex;
+                align-items: center;
+                margin: 10px 0;
+                p{
+                    width: 60px;
+                    font-size: 12px;
+                }
+            }
+            .btn{
+                text-align: right;
+            }
+        }
+        .tips{
+            width: 100%;
+            min-height: 18px;
+            line-height: 18px;
+            font-size: 12px;
+            color: $greenColor;
+            text-align: center;
+            margin: 0 auto;
+            padding-bottom: 36px;
+        }
+    }
+    .message{
+        position: absolute;
+        top: 92px;
+        left: 0;
+        bottom: 20px;
+        width: 100%;
+        height: calc(100vh - 82px);
         .content{
             margin: 20px 10px 40px 10px;
             .text{

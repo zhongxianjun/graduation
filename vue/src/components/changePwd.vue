@@ -108,7 +108,7 @@ export default {
     }
   },
   methods: {
-    submitForm(formName) {
+    submitForm(formName) {    //提交
         const _this = this;
         this.$refs[formName].validate((valid) => {
             if (valid) {
@@ -116,6 +116,7 @@ export default {
                 this.changeGloabUser();
                 this.status = true;
                 this.off();
+                this.$router.push({path: '/login'});
 
                 let timeout = setTimeout(() => {
                     _this.status = false;
@@ -126,10 +127,10 @@ export default {
             }
         });
     },
-    resetForm(formName) {
+    resetForm(formName) {   //重置
         this.$refs[formName].resetFields();
     },
-    off(){
+    off(){  //传值回父组件  关闭弹窗
       this.$emit('off', false);
       this.ruleForm = {
         oldPwd: '',
@@ -137,7 +138,7 @@ export default {
         checkPwd: ''
       }
     },
-    changeGloabUser(){
+    changeGloabUser(){  //更改全局user密码
       gloab.user.map((item, i)=>{
         if(item.userName == gloab.userInfo.userName){
           item.pwd = gloab.userInfo.pwd

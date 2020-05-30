@@ -108,16 +108,19 @@ export default {
       if(this.checked && this.textarea.trim() != ""){
         this.mesArr.push({
           "question": this.textarea.trim(),
-          "answer": ""
+          "answer": "",
+          "private": 0
         });
         this.otherMesArr.push({
           "question": this.textarea.trim(),
-          "answer": ""
+          "answer": "",
+          "private": 0
         });
       }else if(this.checked == false && this.textarea.trim() != ""){
         this.mesArr.push({
           "question": this.textarea.trim(),
-          "answer": ""
+          "answer": "",
+          "private": 1
         });
       }
 
@@ -139,7 +142,21 @@ export default {
           }
         }
       }
-    }
+    },
+    // getPrivateArr(){  //更新全局留言信息
+    //   gloab.allMesArr.map((item, index)=>{
+    //     if(item.private == 0){
+    //       gloab.otherMesArr.push(item);
+    //     }else{
+    //       gloab.mesArr.push(item);
+    //     }
+    //   });
+
+    //   gloab.mesArr = gloab.unique(gloab.mesArr);
+    //   gloab.otherMesArr = gloab.unique(gloab.otherMesArr);
+      
+    //   console.log(gloab);
+    // }
 
   },
   created(){
@@ -147,7 +164,9 @@ export default {
   },
   mounted(){
     this.getMesArr();
-    this.otherMesArr = gloab.otherMesArr;
+    gloab.getPrivateArr(gloab.mesArr, gloab.otherMesArr);
+    this.otherMesArr = gloab.otherMesArr; //加载页面时更新otherMesArr
+    console.log(gloab);
   },
   components: {
     Bottom
