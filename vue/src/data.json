@@ -149,6 +149,48 @@
             ]
         },
         {
+            "name": "面条", 
+            "EnglishName": "noodles", 
+            "foodStatus": "放心吃",
+            "foodKind": "主食类",
+            "img": "http://static.bietongfeng.com//fruit/1-6.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "1.30g"},
+                {"name": "嘌呤", "data": "19.80mg"},
+                {"name": "热量", "data": "298.18kcal"},
+                {"name": "碳水化合物", "data": "61.90g"},
+                {"name": "蛋白质", "data": "8.30g"},
+                {"name": "膳食纤维", "data": "19.80g"}
+            ],
+            "evaluate": "水分含量稍高，单位热量及碳水化合物，蛋白质的含量稍低，较易消化及吸收，可放心食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "面筋", 
+            "EnglishName": "bread", 
+            "foodStatus": "放心吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit_2/c2522dba34dd4e3faa8fffa12cf04d60.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "25.10g"},
+                {"name": "嘌呤", "data": "15.00mg"},
+                {"name": "热量", "data": "490.00kcal"},
+                {"name": "碳水化合物", "data": "40.40g"},
+                {"name": "蛋白质", "data": "26.90g"},
+                {"name": "膳食纤维", "data": "15.00g"}
+            ],
+            "evaluate": "面筋是一种植物性蛋白质，由麦胶蛋白质和麦谷蛋白质组成。面筋为低嘌呤食物，痛风病人可常吃。",
+            "howEat": "饭店用它配料可翻多种菜肴，家常用于佐饭、做菜、烧汤均宜。",
+            "EdibleTaboo": [
+                "一般人群均可食用。",
+                "烧烤后的面筋，嘌呤含量会升高，应少食。"
+            ]
+        },
+        {
             "name": "木薯", 
             "EnglishName": "cassava", 
             "foodStatus": "放心吃",
@@ -1679,6 +1721,27 @@
                 {"name": "膳食纤维", "data": "500.00g"}
             ],
             "evaluate": "在煲汤的过程中，会有大量的嘌呤溶解在汤中，肉汤的嘌呤含量极高，建议不要食用。",
+            "howEat": "--",
+            "EdibleTaboo": [
+                "--",
+                "--"
+            ]
+        },
+        {
+            "name": "方便面", 
+            "EnglishName": "instant_noodles", 
+            "foodStatus": "谨慎吃",
+            "foodKind": "其他",
+            "img": "http://static.bietongfeng.com//fruit/1-24.jpg",
+            "nutrients": [
+                {"name": "脂肪", "data": "21.10g"},
+                {"name": "嘌呤", "data": "150.00mg"},
+                {"name": "热量", "data": "472.00kcal"},
+                {"name": "碳水化合物", "data": "61.6g"},
+                {"name": "蛋白质", "data": "9.50g"},
+                {"name": "膳食纤维", "data": "150.00g"}
+            ],
+            "evaluate": "油炸类方便面脂肪含量普遍在20%以上，导致热量极高，而且在加工过程中营养流失严重，嘌呤含量高，请谨慎食用。",
             "howEat": "--",
             "EdibleTaboo": [
                 "--",
